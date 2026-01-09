@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -20,9 +23,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --source hugo-site --destination public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages
