@@ -17,6 +17,7 @@ summaryLength = 0
 [params]
   offlineSearch = true
   breadcrumb_disable = false
+  mainSections = ["docs"]
 
 [markup]
   [markup.goldmark]
