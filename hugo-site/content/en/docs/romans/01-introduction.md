@@ -1,5 +1,14 @@
 ---
-title: "Introduction"
+title: Romans Introduction
+hide_summary: true
 ---
 
-Welcome to the Romans study.
+THIS LINE SHOULD BE VISIBLE.
+
+**Bold text test.**
+
+## Section heading
+More content…
+
+and some more...
+
