@@ -1,9 +1,9 @@
 baseURL = ""
 languageCode = "es"
-title = "Bible Study"
+title = "Notas de Biblia"
 enableGitInfo = true
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 summaryLength = 0
 
@@ -13,8 +13,10 @@ summaryLength = 0
   [[module.imports]]
     path = "github.com/google/docsy"
 
+# Docsy parameters
 [params]
   offlineSearch = true
+  breadcrumb_disable = false
 
 [markup]
   [markup.goldmark]
