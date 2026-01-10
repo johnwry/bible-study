@@ -111,3 +111,26 @@ Observationally, Romans 5:
 
 Romans 5 therefore serves as the **hinge chapter**:
  what was *declared* in Romans 1–4 is now shown to be **structurally and historically secure**.
+
+===
+
+# 2. The clearest “believed (aorist) → credited unto righteousness (aorist)” clauses
+
+### Genesis 15:6 as cited in Romans 4:3 and Galatians 3:6 (same Greek clause pattern)
+
+- **Romans 4:3**
+  - greek: ἐπίστευσεν (*“he believed”*) … καὶ ἐλογίσθη (*“and it was credited”*) αὐτῷ (*“to him”*) εἰς δικαιοσύνην (*“unto righteousness”*)
+  - moment signal: **ἐπίστευσεν** (*“he believed”*) is **aorist indicative** (punctiliar), followed by **ἐλογίσθη** (*“was credited”*) also **aorist indicative** in the same chain.
+- **Galatians 3:6**
+  - greek: ἐπίστευσεν (*“he believed”*) … καὶ ἐλογίσθη (*“and it was credited”*) αὐτῷ (*“to him”*) εἰς δικαιοσύνην (*“unto righteousness”*)
+  - moment signal: same **aorist → aorist** sequence.
+
+> Text-bound note: These verses use **λογίζομαι** (*“credit/reckon”*) + **εἰς δικαιοσύνην** (*“unto righteousness”*), not the verb **δικαιόω** (*“justify”*). But the sequence is explicitly “believed” then “credited unto righteousness” in the same clause chain.
+
+# 3. The clearest “believing → justified” clause where “justify” is the verb
+
+### Acts 13:39
+
+- greek: ἐν τούτῳ (*“in this one”*) πᾶς ὁ πιστεύων (*“everyone believing”*) δικαιοῦται (*“is justified”*)
+- moment signal (limited): **ὁ πιστεύων** (*“the believing [one]”*) is a **present participle**, which marks the person characterized as believing at the time of the statement, and **δικαιοῦται** (*“is justified”*) is present passive.
+- text-bound limitation: because it’s **present** rather than **aorist**, it does not encode a single punctiliar “moment” the way Romans 4:3 / Galatians 3:6 do; it encodes the **believing person** as the one who “is justified.”

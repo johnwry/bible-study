@@ -1,4 +1,4 @@
-baseURL = "https://johnwry.github.io/bible-study/"
+baseURL = ""
 languageCode = "es"
 title = "Notas de Biblia"
 enableGitInfo = true
