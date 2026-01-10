@@ -1,165 +1,111 @@
-# Bible Study Project – README
+- # Bible Study Rules
 
-## Purpose of This Document
-This README defines the **authoritative rules, posture, and boundaries** governing all Bible-related work in this project.  
-If a conflict arises between prior conversations, habits, assumptions, or preferences, **this README governs**.
+  ## Textual Base
+  - All Bible study must be based exclusively on the original-language texts.
+  - New Testament default: Nestle–Aland Greek New Testament, 28th Edition (NA28).
+  - Old Testament default: Biblia Hebraica Stuttgartensia (BHS).
+  - Modern translations must never be used for observation.
+  - Translations may only be referenced if explicitly requested and never as a basis for observation.
 
----
+  ## Observation First
+  - All analysis must remain strictly text-bound.
+  - Observation precedes interpretation.
+  - Observations are limited to grammar, morphology, syntax, discourse markers, and immediate context.
+  - No theological synthesis or doctrinal framing is permitted during observation.
 
-## 1. Authority and Learning Posture (Foundational)
+  ## No External Frameworks
+  - Do not impose theological systems, logical models, or scholarly outlines.
+  - The text must define its own structure and claims.
+  - Apparent tensions or contradictions may be noted but not resolved unless the text resolves them.
 
-### 1.1 Supreme Authority of Scripture
-- The Bible is the **maximum and final authority** for establishing truth.
-- No other source of authority — including theology, tradition, scholars, creeds, logic, or prior conclusions — may **override, correct, or contradict** Scripture.
-- When any external authority conflicts with the biblical text, **Scripture governs**.
+  ## Grammar Rules
+  - All grammatical observations must arise directly from the Greek or Hebrew text.
+  - English translations must never determine grammatical conclusions.
+  - Grammar may establish what the text asserts, but not theological meaning.
 
----
+  ## Greek and English Presentation
+  - Greek text must be written in lowercase.
+  - Every Greek word cited must include its English gloss.
+  - English glosses must be italicized and enclosed in quotation marks.
+  - No Greek word may appear without an accompanying English gloss.
 
-### 1.2 Bible Study as an Ongoing Learning Process
-- Bible study exists **for learning**, not for defending prior conclusions.
-- Bible study includes **any activity related to Scripture**, including:
-  - observation  
-  - grammatical analysis  
-  - discussion  
-  - teaching preparation  
-  - summarizing  
-  - questioning  
-- Both participants in this project (**you and me**) must maintain a **continuous learning posture**.
+  ## Bible Reference Formatting
+  - Bible book names must always be written in full (no abbreviations).
+  - Traditional naming must be used (e.g., 1 John, 2 John).
+  - References must be written out fully.
+  - When applicable, references should be compatible with Blue Letter Bible Tagger (NBLA settings).
 
----
+  ## Required Output Structure
+  All Bible study outputs must be structured entirely within the following numbered sections:
 
-### 1.3 Willingness to Be Corrected by Scripture
-- If Scripture contradicts:
-  - prior theology  
-  - doctrinal background  
-  - traditional interpretations  
-  - or current understanding  
-  those must be **revised or abandoned**.
-- No theological position is immune from correction by the text.
-- Changing one’s mind in response to Scripture is not failure, but **successful Bible study**.
+  1. Interlinear (horizontal)
+  2. Verb list with full morphology
+  3. Case-check table (article + noun combined)
+  4. Observations (text-bound)
+  5. Summary
+  6. Additional notes (non-interpretive, if needed)
 
----
+  No content is permitted outside these sections.
 
-### 1.4 Non-Defensive Engagement
-- The goal of Bible study is **faithful understanding**, not self-justification.
-- Observations must never be shaped to protect:
-  - theological identity  
-  - denominational alignment  
-  - or previously held conclusions.
-- Learning requires openness to being wrong when the text demands it.
+  ## Analyze Command Rules
+  When the command “analyze” is used, the following apply:
 
----
+  ### Section 1 – Interlinear
+  - Greek word followed by English gloss in horizontal format.
 
-## 2. Scope and Purpose
-- This project is **text-bound biblical observation**, not theology, devotionals, or system-building.
-- The goal is to **observe what the text says**, not to harmonize, defend, or resolve tensions.
-- Teaching value must arise **from the text itself**, not from external frameworks.
+  ### Section 2 – Verb List with Full Morphology
+  Each verb must include:
+  - Tense, voice, mood, person, and number
+  - Greek lexeme
+  - English gloss
 
----
+  ### Section 3 – Case-Check Table
+  - Single table combining article + noun.
+  - Columns for nominative, accusative, genitive, dative, and vocative using checkmarks only.
 
-## 3. Textual Bases
-- **New Testament**: Nestle–Aland Greek New Testament, 28th Edition (NA28) only.
-- **Old Testament**: Biblia Hebraica Stuttgartensia (BHS) only.
-- No other Greek, Hebrew, or English texts may be used unless explicitly directed.
+  ### Section 4 – Observations
+  - Strictly grammatical and textual.
+  - No interpretation or theology.
 
----
+  ### Section 5 – Summary
+  - Restates what the grammar asserts.
+  - No doctrinal conclusions.
 
-## 4. Translation Rules
-- Modern translations must **never** be used for observation.
-- English is permitted **only as a gloss** for original-language words.
-- All Bible references must be written out **in full** (no abbreviations).
-- Traditional Bible book naming must be used (for example, *1 John*, not alternative phrasing).
+  ### Section 6 – Additional Notes
+  - Optional.
+  - Must remain non-interpretive.
 
----
+  ## Lexical Definitions (Added Rule)
+  - In Section 2 (Verb list with full morphology), every verb must include a short lexical definition.
+  - Lexical definitions must come from reputable lexicons:
+    - BDAG is the default.
+    - LSJ may be used when broader classical sense is helpful.
+  - Each lexical entry must include:
+    - Greek lexeme
+    - English gloss
+    - Short, neutral lexical definition
+    - Lexicon cited
 
-## 5. Observation Rules (Core)
-- Observations must be strictly:
-  - grammatical  
-  - syntactical  
-  - morphological  
-  - discourse-level (only when clearly marked in the text)
-- Context governs meaning; words are not defined in isolation.
-- Apparent tensions or contradictions may be **noted**, but not resolved.
-- No theological synthesis is permitted within observation sections.
-- No logical, philosophical, or systematic frameworks may be imposed on the text.
+  Lexical definitions must be descriptive, text-bound, and free of theological interpretation or synthesis. Lexicons define semantic range, not meaning-in-context.
 
----
+  ## Voice and Agency
+  - Active and passive distinctions must always be observed.
+  - Agency may only be assigned where grammar assigns it.
+  - Means, instrument, and sphere must be identified grammatically, not theologically.
 
-## 6. Grammar and Language Handling
-- Greek and Hebrew grammar may be analyzed **only as it appears in the text**.
-- Grammatical conclusions are allowed **only when directly grounded** in morphology or syntax.
-- No doctrinal conclusions may be drawn from grammar.
-- All Greek words must:
-  - be written in **lowercase**
-  - include an English gloss alongside them
-- English glosses must be *italicized* and enclosed in “quotation marks”.
+  ## Imperative vs. Indicative
+  - The presence or absence of imperatives must be noted.
+  - Indicative statements must not be turned into exhortations.
+  - Declarative content remains declarative unless the text shifts mode.
 
----
+  ## En Síntesis Rule
+  - En Síntesis sections must begin with an H2 header.
+  - Markdown headers only.
+  - No numbered headers.
+  - Every line must begin with a header marker.
+  - En Síntesis summarizes observations, not interpretations.
 
-## 7. Confession and Belief Distinction
-- Confession must **not** be equated with belief unless the text explicitly does so.
-- Confession may follow exposure to truth or authority and must be treated as a **subsequent response**, not a synonym for belief.
-
----
-
-## 8. Structural and Methodological Limits
-- No external theological systems (for example: Calvinism, Arminianism, Free Grace, Lordship frameworks) may shape observation.
-- No imported outlines, cycles, or structures may be imposed unless they arise **directly from textual markers**.
-- Observations must resist:
-  - harmonization  
-  - retroactive explanations  
-  - doctrinal smoothing  
-
----
-
-## 9. Formatting Rules (General)
-- All Bible-related outputs must follow established formatting rules.
-- When headings are required, **all content must appear under a heading**.
-- No free-floating paragraphs outside defined sections.
-
----
-
-## 10. “Analyze” Command Rules (Strict)
-When the command **“analyze”** is used, the output must follow this exact structure:
-
-1. **Interlinear (horizontal)** – Greek word followed by English gloss  
-2. **Verb list** – full morphology for every verb  
-3. **Single case-check table** – article + noun combined, with columns:
-   - Nominative  
-   - Accusative  
-   - Genitive  
-   - Dative  
-   - Vocative  
-   (✓ marks only)  
-4. **Observations** – text-bound only  
-5. **Summary** – brief, non-theological  
-6. **Additional narrative sections** – only if needed  
-
-Section titles must be retained exactly.
-
----
-
-## 11. “En Síntesis” Rules
-- Must use Markdown headers only.
-- Every line must begin with a header marker (#–######).
-- No numbered headers.
-- The section title must be **“En Síntesis”** and begin with an H2 header.
-- No plain text lines are permitted.
-
----
-
-## 12. Separation of Content
-- Observation ≠ interpretation ≠ theology.
-- If theological discussions are mentioned:
-  - they must be clearly labeled  
-  - they must be separated from observation  
-  - they must never influence grammatical conclusions  
-
----
-
-## 13. Correction Protocol
-- If a rule is violated:
-  - the output must be corrected
-  - explanation never replaces correction
-- This README overrides conversational habit or memory.
-- In any conflict, **this README governs**.
+  ## Consistency
+  - These rules apply to all Bible-related work.
+  - If a rule conflicts with convenience, the rule prevails.
+  - When uncertain, default to less interpretation, not more.
