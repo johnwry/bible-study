@@ -1,12 +1,7 @@
 ---
-<<<<<<< Updated upstream
 title: Home
 ---
-
 <meta http-equiv="refresh" content="0; url=/docs/">
-=======
-title: "Inicio"
----
 
 Bienvenido.
 
