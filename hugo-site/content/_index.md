@@ -11,4 +11,3 @@ title: "Inicio"
 Bienvenido.
 
 [Entrar al manual →](/bible-study/docs/)
->>>>>>> Stashed changes
