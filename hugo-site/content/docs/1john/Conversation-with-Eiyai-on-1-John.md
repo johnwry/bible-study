@@ -1121,3 +1121,380 @@ You are not importing a framework —
 ## 7 One-line teaching sentence (very strong)
 
 > **In every cycle, what appears must come from somewhere — and John allows only two sources.**
+
+so let's practice with cycle 9 the source could be God or the Heart. The Objetive Object is "God is greater (which includes my heart)" 
+
+Yes — **that is a correct reading of Cycle 9**, and it can be **confirmed directly from the grammar and flow of 1 John 3:19–24**, with one small precision that strengthens it.
+
+I’ll affirm your statement, then sharpen it textually.
+
+------
+
+## Cycle 9 (1 John 3:19–24)
+
+### Your formulation
+
+> **“The source could be God or the heart.
+>  The objective object is: ‘God is greater (which includes my heart).’”**
+
+✅ **Confirmed**, with this clarification:
+
+> The contrast is **God vs. the heart as competing verdict-sources**,
+>  and the **objective object explicitly resolves that contrast**.
+
+------
+
+## 1 The binary source contrast (explicit)
+
+The text itself names both “sources”:
+
+- **καρδία** — *“heart”*
+  - functioning as an **internal verdict-giver**
+  - *“if our heart condemns us”* (ἐὰν καταγινώσκῃ ἡ καρδία)
+- **θεός** — *“God”*
+  - functioning as the **ultimate knower and judge**
+  - *“God is greater than our heart”*
+
+These are not emotions vs. facts; they are **two competing authorities** for judgment.
+
+So yes: **source = God or heart** is textually accurate.
+
+------
+
+## 2 The objective object (explicit and decisive)
+
+### The clause:
+
+**ὅτι ὁ θεὸς μείζων ἐστὶν τῆς καρδίας ἡμῶν
+ καὶ γινώσκει πάντα**
+
+*“that God is greater than our heart and knows all things”*
+
+Grammatically:
+
+- **ὁ θεός** — subject
+- **μείζων ἐστίν** — copular comparative (*“is greater”*)
+- **τῆς καρδίας ἡμῶν** — genitive of comparison
+- **γινώσκει πάντα** — present indicative, exhaustive knowledge
+
+This is an **explicit objective declaration**, not inferred from experience.
+
+------
+
+## 3 Why “which includes my heart” is justified (but should be worded carefully)
+
+Your instinct is right, but the **Greek already says it more precisely**:
+
+- God is not merely *greater than my feelings*
+- God is **greater than the heart itself as a judging entity**
+
+The phrase **μείζων τῆς καρδίας** means:
+
+- greater in **authority**
+- greater in **knowledge**
+- greater in **verdict power**
+
+So a text-faithful phrasing is:
+
+> **“God is greater than the heart as a source of judgment.”**
+
+That already *includes* everything the heart might say.
+
+------
+
+## 4 How the objective object resolves the diagnostic tension
+
+The cycle sets up the problem:
+
+- the heart may condemn
+- condemnation creates instability
+
+Then the objective object intervenes:
+
+- **God is greater**
+- **God knows all things**
+
+This does **not** appeal to:
+
+- improved behavior
+- stronger faith
+- quieter conscience
+
+It appeals to **a declared reality**.
+
+------
+
+## 5 Why this cycle cannot be read conditionally
+
+Notice what the text does *not* say:
+
+- “If your heart condemns you, obey better”
+- “Prove your love to silence your heart”
+
+Instead, it says:
+
+- **God > heart**
+
+That is **assurance by object**, not by manifestation.
+
+------
+
+## 6 Final, clean formulation (slide-ready)
+
+> **Cycle 9 operates with two possible sources of verdict:
+>  God or the heart.
+>  The objective object resolves the conflict:
+>  “God is greater than the heart and knows all things.”**
+
+That sentence preserves:
+
+- the binary source contrast
+- the objective object
+- the assurance mechanism
+
+You’ve read this cycle exactly as John designed it.
+
+so, in each cycle are we to ask, what is the source? 
+
+Yes — **that is exactly the right diagnostic question**, and it comes **from the way John writes**, not from a framework you’re imposing.
+
+But it needs to be phrased **precisely**, so it stays faithful to the text.
+
+------
+
+## 1 The correct diagnostic question (text-faithful)
+
+Not simply:
+
+> *“What is the source?”*
+
+But:
+
+> **“From where does this proceed?”**
+>  *(ἐκ τίνος ἐστίν;)*
+
+That question is built directly into John’s language.
+
+------
+
+## 2 Why this question is warranted in every cycle
+
+### 2.1 John repeatedly uses explicit source markers
+
+Across the letter you see:
+
+- **ἐκ τοῦ θεοῦ** — *from God*
+- **ἐκ τοῦ κόσμου** — *from the world*
+- **οὐκ ἐκ τοῦ θεοῦ** — *not from God*
+- **ἐκ τοῦ πονηροῦ** (conceptually present)
+
+These are **origin statements**, not evaluations.
+
+------
+
+### 2.2 When “ἐκ” is not used, source is still contrasted
+
+Even when the word **ἐκ** is absent, John contrasts:
+
+- God vs. heart (3:20)
+- Spirit of truth vs. spirit of error (4:6)
+- Love of God vs. love of the world (2:15)
+
+The question “from where?” still governs the logic.
+
+------
+
+## 3 How the source question fits with the objective object
+
+This is crucial:
+
+1. **The objective object declares what is true**
+    → *God is light / God is love / Jesus is the Son of God*
+2. **The source question asks where something comes from**
+    → *from God or not from God?*
+3. **Manifestations reveal consistency**
+    → love, confession, obedience, endurance
+
+So the diagnostic sequence is:
+
+**What is true? (object)**
+ → **From where does this proceed? (source)**
+ → **What appears? (manifestation)**
+ → **What does this indicate? (diagnosis)**
+
+------
+
+## 4 Why asking “what is the source?” does not threaten assurance
+
+Because assurance is **not** grounded in the answer to that question.
+
+Assurance is grounded in the **objective object**.
+
+The source question:
+
+- clarifies alignment
+- exposes contradiction
+- diagnoses influence
+
+But it does **not** determine identity.
+
+John never says:
+
+- “If the source is wrong, you lose life”
+- “If the manifestation fails, you are cut off”
+
+He says:
+
+- *test the spirits*
+- *know the truth*
+- *do not be deceived*
+
+That’s **diagnosis**, not probation.
+
+------
+
+## 5 One-sentence rule (very important)
+
+> **Every cycle invites the question “From where does this come?”,
+>  but never replaces assurance with the answer.**
+
+That sentence keeps the whole letter aligned.
+
+------
+
+## 6 Clean teaching takeaway (slide-ready)
+
+> **In each cycle, John asks us to discern the source,
+>  while resting our assurance on the objective object.**
+
+Yes — you’ve identified the **operating question of the cycles**.
+
+# <u>Q: practice this question through all 15 cycles in one table</u>
+
+Below is **one single, clean table** that **practices the diagnostic question**
+ **“From where does this proceed?”** across **all 15 cycles** in **1 John**, while **keeping assurance anchored to the objective object**.
+
+No theology added. No deductions. This is **text-driven practice**.
+
+------
+
+## Diagnostic Practice Table — All 15 Cycles (1 John)
+
+| Cycle | Text Range | Diagnostic Question: **From where does this proceed?** | Competing Sources Named or Implied | Objective Object (Anchor of Assurance)      |
+| ----- | ---------- | ------------------------------------------------------ | ---------------------------------- | ------------------------------------------- |
+| 1     | 1:1–4      | From where does this proclamation come?                | God ↔ false testimony              | **The life was manifested**                 |
+| 2     | 1:5–2:2    | From where does “light/darkness” proceed?              | God ↔ darkness                     | **God is light**                            |
+| 3     | 2:3–6      | From where does “knowing God” proceed?                 | God ↔ claim without reality        | **We have known Him**                       |
+| 4     | 2:7–11     | From where does love or hatred proceed?                | God ↔ darkness                     | **The true light is already shining**       |
+| 5     | 2:12–17    | From where does desire proceed?                        | God ↔ world                        | **The world is passing away**               |
+| 6     | 2:18–27    | From where does teaching/confession proceed?           | God ↔ antichrist                   | **The Son determines access to the Father** |
+| 7     | 2:28–3:10  | From where does righteousness/sin proceed?             | God ↔ devil                        | **Everyone born of God**                    |
+| 8     | 3:11–18    | From where does love or hatred proceed?                | God ↔ Cain/world                   | **This is the message**                     |
+| 9     | 3:19–24    | From where does condemnation or confidence proceed?    | God ↔ heart                        | **God is greater than our heart**           |
+| 10    | 4:1–6      | From where does spiritual speech proceed?              | God ↔ spirit of error              | **Jesus Christ has come in the flesh**      |
+| 11    | 4:7–12     | From where does love proceed?                          | God ↔ not-God                      | **God is love**                             |
+| 12    | 4:13–21    | From where does assurance proceed?                     | God ↔ fear                         | **God abides in us**                        |
+| 13    | 5:1–5      | From where does victory proceed?                       | God ↔ world                        | **Jesus is the Son of God**                 |
+| 14    | 5:6–12     | From where does testimony proceed?                     | God ↔ human witness                | **Life is in the Son**                      |
+| 15    | 5:13–21    | From where does certainty come?                        | God ↔ idols                        | **You have eternal life**                   |
+
+------
+
+## How to *use* this table (important)
+
+For **each cycle**, you ask **only this diagnostic question**:
+
+> **“From where does this proceed?”**
+
+Then you do **two things only**:
+
+1. **Name the competing sources** (as the text does)
+2. **Rest assurance on the objective object**, not on the source analysis
+
+You **never**:
+
+- ground assurance in the answer to the source question
+- reverse the logic
+- turn diagnosis into probation
+
+------
+
+## One governing sentence (use this while teaching)
+
+> **Every cycle asks us to discern the source,
+>  while resting in an objective object that cannot be wrong.**
+
+This table is the **operational key** to reading 1 John without anxiety, moralism, or self-examination spirals.
+
+turn this table into 15 visual slides
+
+Done. I’ve turned the table into **15 visual slides**, one per cycle, each built around **the same diagnostic question** and **the same visual logic**.
+
+### 📥 Download the slides
+
+
+
+
+
+**1_Juan_15_Ciclos_Diapositivas_Diagnosticas.pptx**
+
+
+
+
+
+------
+
+## What each slide contains (consistent across all 15)
+
+Each slide is structured visually with **three large boxes**, left → right:
+
+1. **PREGUNTA DIAGNÓSTICA**
+
+   > *¿De dónde procede…?*
+   >  (This trains the reader to ask the source question every time.)
+
+2. **FUENTES EN CONTRASTE**
+
+   > Dios ↔ alternativa (mundo, corazón, error, etc.)
+   >  (Keeps the binary-source logic clear and non-moralistic.)
+
+3. **OBJETO OBJETIVO**
+
+   > The declared reality that anchors assurance
+   >  (What “cannot be wrong” in that cycle.)
+
+This means:
+
+- the **question** is repeated,
+- the **sources** vary by cycle,
+- the **objective object** secures assurance every time.
+
+------
+
+## How to use these slides pedagogically
+
+When teaching each cycle, do **only three things**:
+
+1. **Read the question out loud**
+    “¿De dónde procede esto?”
+2. **Name the competing sources**
+    (as the text names or implies them)
+3. **Land on the objective object**
+    and **rest assurance there**
+
+Do **not**:
+
+- turn the question into a test of salvation
+- shift assurance onto manifestation
+- collapse source into behavior
+
+These slides are built to prevent that.
+
+------
+
+## Why this works so well with your thesis
+
+This deck visually reinforces your governing insight:
+
+> **Every cycle asks us to discern the source,
+>  while resting assurance on an objective object that cannot be wrong.**
