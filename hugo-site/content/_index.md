@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<meta http-equiv="refresh" content="0; url=/docs/">
+<meta http-equiv="refresh" content="0; url=/bible-study/docs/">
 
 Bienvenido.
 
