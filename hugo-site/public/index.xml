@@ -1,11 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inicio on </title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in Inicio on </description>
+    <title>Home on Notas de Biblia</title>
+    <link>https://johnwry.github.io/bible-study/</link>
+    <description>Recent content in Home on Notas de Biblia</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <atom:link href="https://johnwry.github.io/bible-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/00-title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/00-title/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/01-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/01-introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/02-the-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/02-the-problem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/03-gods-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/03-gods-solution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/04-it-is-settled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/04-it-is-settled/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/05-living-from-settlement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/05-living-from-settlement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/chapter1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/chapter1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/complete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/complete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwry.github.io/bible-study/it-is-settled/est%C3%A1-resuelto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/it-is-settled/est%C3%A1-resuelto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversation with Eiyai on 1 John</title>
+      <link>https://johnwry.github.io/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>God is love</title>
+      <link>https://johnwry.github.io/bible-study/docs/1john/god-is-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/docs/1john/god-is-love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 5</title>
+      <link>https://johnwry.github.io/bible-study/docs/romans/romanos5.notas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/docs/romans/romanos5.notas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://johnwry.github.io/bible-study/docs/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/docs/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://johnwry.github.io/bible-study/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwry.github.io/bible-study/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
