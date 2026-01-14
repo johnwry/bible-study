@@ -109,3 +109,52 @@
   - These rules apply to all Bible-related work.
   - If a rule conflicts with convenience, the rule prevails.
   - When uncertain, default to less interpretation, not more.
+  - ### 1. Cross-References
+  
+    - Cross-references that appear **at the end of a sentence** must be placed **after the period**.
+    - **Do not use parentheses** for end-of-line references.
+    - When listing **multiple references**:
+      - Use a **semicolon ( ; )** to separate references from **different books**.
+      - Use a **comma ( , )** to separate references from the **same book**, without repeating the book name.
+  
+    **Example:**
+  
+    > …the argument is fully developed. 1 Corinthians 3:1, 4, 5:3; 2 Corinthians 3:3.
+  
+    ------
+  
+    ### 2. Six-Header Rule (Structural Requirement)
+  
+    - **All content must fall under one of the six designated headers.**
+    - **No content is permitted outside a header**, with **one exception**:
+      - **Block quotes** may appear without an additional header.
+  
+    This rule is absolute and applies to:
+  
+    - Explanatory text
+    - Observations
+    - Notes
+    - Lists
+    - Transitional statements
+  
+    ------
+  
+    ### 3. Block Quotes for Lexical and Reference Material
+  
+    - **Lexical definitions**, **dictionary entries**, **lexicon quotations**, and similar reference material **must always be placed in block quotes**.
+    - This includes:
+      - Greek or Hebrew lexical definitions
+      - Dictionary explanations
+      - Quoted reference material
+  
+    This visually and structurally distinguishes **observation and explanation** from **reference material**.
+  
+    ------
+  
+    ### 4. Editorial Intent
+  
+    These formatting rules exist to ensure:
+  
+    - Structural consistency across the entire manual
+    - Clear separation between **observation**, **explanation**, and **reference material**
+    - Compatibility with teaching, print, Word, PDF, and Hugo outputs

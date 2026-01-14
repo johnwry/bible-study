@@ -1,4 +1,4 @@
-# Está Resuelto
+# ¡Está Resuelto!
 
 ## Desde la perspectiva de Dios
 
@@ -98,14 +98,35 @@ Este libro **no es**:
 - Un sistema doctrinal  
 - Un manual de desempeño cristiano  
 
-El objetivo es la comprensión, porque **la claridad produce descanso**, y el descanso produce fruto (Romanos 6:22).
+El objetivo es la comprensión, porque **la claridad produce descanso**, y el descanso produce fruto.
 
-En el próximo capítulo comenzamos donde comienza Pablo:  
-no con soluciones, sino con el problema que hace necesaria la solución (Romanos 1:18).
+> ¿Qué fruto tenían entonces en aquellas cosas...? Porque el fin de esas cosas es muerte. Pero ahora, habiendo sido libertados del pecado y hechos siervos de Dios, tienen por su fruto la santificación, y como resultado la vida eterna. Romanos 6:21-22
+
+## Para reflejar:
 
 ---
 
 # Capítulo 1  
+
+## El punto de partida es Dios
+
+la historia de la redención del hombre no empieza por su caída. 
+
+Las Escrituras no inician explicando el pecado. Viene después de presentarnos a Dios. 
+
+Dios es bueno. Creador, todopoderesoso, ser amoroso que crea a todo en existencia sin ningún mal. Todo era bueno en grán manera. 
+
+> Dios vio todo lo que había hecho; y *era* bueno en gran manera. Y fue la tarde y fue la mañana: el sexto día. Génesis 1:31
+
+- Romanos empieza con Dios. 
+  - Pablo se presenta como instrumento enviado de Dios
+  - Presenta el Hijo de Dios
+  - Escribe al pueblo de Dios en Roma
+  - Les escribe el mensaje de Dios
+  - El mensaje de Dios es poder para salvar
+
+# Capítulo 2
+
 ## El problema que Romanos expone
 
 Antes de que Romanos ofrezca seguridad, exige claridad.
@@ -214,9 +235,11 @@ Pero cuando el problema se entiende, sucede algo sorprendente:
 En el próximo capítulo, Romanos presenta el punto de giro:  
 no la resolución humana, sino **la acción de Dios** (Romanos 3:21).
 
+## Para reflejar: 
+
 ---
 
-# Capítulo 2  
+# Capítulo 3  
 ## La solución de Dios, no la nuestra
 
 Romanos no presenta a Dios reaccionando al esfuerzo humano.  
@@ -333,9 +356,11 @@ En el próximo capítulo, Pablo aborda la pregunta inevitable:
 Si la justificación es realmente el veredicto de Dios,  
 ¿puede alguna vez ser deshecha?
 
+## Para reflejar:
+
 ---
 
-# Capítulo 3  
+# Capítulo 4  
 ## Está resuelto
 
 En este punto de Romanos surge una pregunta natural:
@@ -414,9 +439,11 @@ Pablo advierte que cambiar el fundamento siempre debilita la confianza (Romanos 
 
 La seguridad se debilita cada vez que la confianza se desplaza de la promesa de Dios a la estabilidad humana.
 
+## Para reflejar: 
+
 ---
 
-# Capítulo 4  
+# Capítulo 5  
 ## Vivir bajo un veredicto final
 
 La frase “está resuelto” no pretende ser poética.  
@@ -436,9 +463,11 @@ Conduce a la libertad.
 
 Y la libertad, como mostrará Romanos, produce un tipo de vida muy distinto.
 
+## Para reflejar:
+
 ---
 
-# Capítulo 5  
+# Capítulo 6  
 ## Vivir desde lo que está resuelto
 
 Cuando el veredicto se comprende como final, surge una nueva pregunta:
@@ -593,3 +622,5 @@ Solo necesita ser creído.
 
 Y de esa fe,  
 la vida fluye.
+
+## Para reflejar:
