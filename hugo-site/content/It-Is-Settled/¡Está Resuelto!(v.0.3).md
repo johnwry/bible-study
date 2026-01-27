@@ -145,6 +145,8 @@ En Romanos, la conducta aparece como testigo, no como médico. Pablo expone lo q
 
 Por eso el problema no es simplemente que la gente haga cosas malas, sino que **interpreta la vida desde una fuente equivocada**. La conducta, entonces, no es el enemigo a vencer, sino la señal que revela que la verdad ha sido suprimida, que el corazón ha intercambiado referencias, que la confianza ya no está anclada en Dios. Corregir la conducta sin atender ese desplazamiento central solo produciría ajuste externo, no restauración.
 
+>Mateo 23:25–28 “Limpian lo de fuera del vaso… pero por dentro están llenos de robo…”
+
 Así, Romanos no persigue la conducta para disciplinarla, sino que la expone para probar que el problema es interno, relacional y orientacional. La conducta es llevada al estrado no para ser reformada, sino para declarar con claridad que algo más profundo necesita ser reubicado: el centro desde el cual la persona vive, razona y confía.
 
 Esto explica por qué es tan insuficiente empezar por “portarte mejor”.
