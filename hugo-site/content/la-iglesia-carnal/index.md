@@ -18,7 +18,7 @@ layout: "single"
 
 <br><br>
 
-<a href="files/IglesiaCarnal.pdf" 
+<a href="files/IglesiaCarnal.pdf" download
 style="display:inline-block;
 background:#111;
 color:white;
