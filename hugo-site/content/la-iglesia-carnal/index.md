@@ -6,6 +6,8 @@ layout: "single"
 
 <div style="text-align:center; max-width:900px; margin:auto;">
 
+# Llegó mi nuevo libro
+
 # La Iglesia Carnal
 
 ## Una conversación honesta sobre lo que la Escritura realmente dice acerca de la carnalidad
