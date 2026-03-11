@@ -3,7 +3,7 @@ Title: Zechariah
 Description: The book of Zechariah contains a powerful message to the reader. One's view of God is profoundly impacted to understand who God is and what He does. God is supremely above evil; and this is the one resource and unfailing comfort of faith. Zechariah clearly lays out God's redemptive plan of the ages carried out through Messiah. No other book, other than Isaiah, contains the Messianic prophecies that are contained within the pages of Zechariah. 
 Author: John Wry
 Template: page
-Date: 01/10/2022 3:14pm
+Date: 2022-10-01
 hidden: true
 ---
 

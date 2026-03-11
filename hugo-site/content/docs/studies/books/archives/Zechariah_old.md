@@ -1,7 +1,7 @@
 ---
 Title: Zechariah notes old
 Template: blog
-Date: 12/10/2022 4:40am
+Date: 2022-10-12
 Hidden: true
 ---
 Zechariah

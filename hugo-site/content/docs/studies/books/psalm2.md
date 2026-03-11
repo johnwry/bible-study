@@ -3,7 +3,7 @@ Title: Psalm 2
 Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"
-Date: 10/11/2024 4:40pm
+Date: 2024-11-10
 ---
 
 ## The Reign of the Lord's Anointed

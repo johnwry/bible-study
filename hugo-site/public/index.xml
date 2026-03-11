@@ -2,107 +2,1003 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Notas de Biblia</title>
-    <link>https://johnwry.github.io/bible-study/</link>
+    <link>http://localhost:1313/bible-study/</link>
     <description>Recent content in Home on Notas de Biblia</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://johnwry.github.io/bible-study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bible-study/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/00-title/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/00-title/</guid>
+      <title>Hebrews 12:1-2</title>
+      <link>http://localhost:1313/bible-study/docs/hebrews/hebrews-12.1-2/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/hebrews/hebrews-12.1-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 2</title>
+      <link>http://localhost:1313/bible-study/docs/psalms/psalm2/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/psalms/psalm2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 2</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/psalm2/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/psalm2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philemon</title>
+      <link>http://localhost:1313/bible-study/docs/philemon/philemon/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/philemon/philemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philemon</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/philemon/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/philemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OT Books</title>
+      <link>http://localhost:1313/bible-study/docs/ot-books/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/ot-books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ekklesia in the Bible</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/ekklesia-in-the-bible/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/ekklesia-in-the-bible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OT Books</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/ot-books/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/ot-books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah notes old</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_old/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_old/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-old/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-old/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-orig/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-orig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-orig.md/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah-orig.md/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/01-introduction/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/2cor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/01-introduction/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/2cor/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/02-the-problem/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/2john/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/02-the-problem/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/2john/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/03-gods-solution/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/2pet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/03-gods-solution/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/2pet/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/04-it-is-settled/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/2thess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/04-it-is-settled/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/2thess/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/05-living-from-settlement/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/2tim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/05-living-from-settlement/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/2tim/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/chapter1/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/3john/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/chapter1/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/3john/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/complete/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/acts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/complete/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/acts/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://johnwry.github.io/bible-study/it-is-settled/est%C3%A1-resuelto/</link>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/col/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/it-is-settled/est%C3%A1-resuelto/</guid>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/col/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/eph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/eph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/gal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/gal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/heb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/heb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/jas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/jas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/jude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/jude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/luke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/luke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/mark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/mark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/matt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/matt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/phil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/phil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/phlm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/phlm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/rev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/rev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/titus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/titus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2015-03-24-predestination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2015-03-24-predestination/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/often-missed-romans-grammar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/often-missed-romans-grammar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/sanctification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/sanctification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/theology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/00-title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/00-title/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/01-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/01-introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/02-the-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/02-the-problem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/03-gods-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/03-gods-solution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/04-it-is-settled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/04-it-is-settled/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/05-living-from-settlement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/05-living-from-settlement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/chapter9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/chapter9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/complete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/complete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/resuelto-estav.0.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/resuelto-estav.0.1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/resuelto-est%C3%A1v.0.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/resuelto-est%C3%A1v.0.3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Corintios</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/1cor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/1cor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 John</title>
+      <link>http://localhost:1313/bible-study/docs/1john/1-john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/1john/1-john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 John 5:6-12</title>
+      <link>http://localhost:1313/bible-study/docs/1john/1-john-56-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/1john/1-john-56-12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Juan</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/1john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/1john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Juan 4:7-12</title>
+      <link>http://localhost:1313/bible-study/docs/1john/1-juan-47-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/1john/1-juan-47-12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Pedro</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/1pet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/1pet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Peter</title>
+      <link>http://localhost:1313/bible-study/docs/1peter/1-peter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/1peter/1-peter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Peter 4:1-6</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/1peter4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/1peter4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Tesalonicenses</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/1thess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/1thess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1 Timoteo</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/1tim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/1tim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2 Timothy</title>
+      <link>http://localhost:1313/bible-study/docs/2timoteo/2-timothy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/2timoteo/2-timothy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2 Timothy</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/2-timothy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/2-timothy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angels</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/angels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/angels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Armageddon</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/armageddon-zech6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/armageddon-zech6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biblical Covenants</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/biblical_covenants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/biblical_covenants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>biblical fellowship</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/biblical-fellowship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/biblical-fellowship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biblical Fellowship</title>
+      <link>http://localhost:1313/bible-study/docs/biblical-fellowship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/biblical-fellowship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christmas is King</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/christmas-kingbirth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/christmas-kingbirth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confession of Sins</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/confession-of-sins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/confession-of-sins/</guid>
       <description></description>
     </item>
     <item>
       <title>Conversation with Eiyai on 1 John</title>
-      <link>https://johnwry.github.io/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</link>
+      <link>http://localhost:1313/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</guid>
+      <guid>http://localhost:1313/bible-study/docs/1john/conversation-with-eiyai-on-1-john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>damnable heresies</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/lordship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/lordship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daniel</title>
+      <link>http://localhost:1313/bible-study/docs/daniel/2021-07-27-daniel.6.18-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/daniel/2021-07-27-daniel.6.18-28/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daniel</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/2021-07-27-daniel.6.18-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/2021-07-27-daniel.6.18-28/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daniel 3:1-12</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/2020-06-08-daniel-31-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/2020-06-08-daniel-31-12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dealing with Pain</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/dealing_with_pain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/dealing_with_pain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deconstruction for recostruction</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/deconstruction-for-recostruction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/deconstruction-for-recostruction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discipleship -&gt; importance</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/discipleship-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/discipleship-need/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ephesians</title>
+      <link>http://localhost:1313/bible-study/docs/ephesians/ephesians/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/ephesians/ephesians/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esta Resuelto</title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/esta-resuelto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/esta-resuelto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fellowship</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/fellowship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/fellowship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galatians</title>
+      <link>http://localhost:1313/bible-study/docs/galatians/galatians/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/galatians/galatians/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galatians 1:11-24</title>
+      <link>http://localhost:1313/bible-study/docs/galatians/galatians-111-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/galatians/galatians-111-24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galatians 3:21-29</title>
+      <link>http://localhost:1313/bible-study/docs/galatians/gal-3.21-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/galatians/gal-3.21-29/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Globalism and Theology</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/globalist-theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/globalist-theology/</guid>
       <description></description>
     </item>
     <item>
       <title>God is love</title>
-      <link>https://johnwry.github.io/bible-study/docs/1john/god-is-love/</link>
+      <link>http://localhost:1313/bible-study/docs/1john/god-is-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/docs/1john/god-is-love/</guid>
+      <guid>http://localhost:1313/bible-study/docs/1john/god-is-love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habakuk</title>
+      <link>http://localhost:1313/bible-study/docs/habakuk/habakkuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/habakuk/habakkuk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hebrews 3:1-6, 4:11-16</title>
+      <link>http://localhost:1313/bible-study/docs/hebrews/hebrews-31-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/hebrews/hebrews-31-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homiletics</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/homiletics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/homiletics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyper Grace, an article by Dave Miller</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/hyper-grace-an-article-by-dave-miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/hyper-grace-an-article-by-dave-miller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyper Grace...The latest fad in conversative theology</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/hyper-grace...the-latest-fad-in-conversative-theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/hyper-grace...the-latest-fad-in-conversative-theology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperative verbs in Romans</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/imperative-verbs-in-romans-1-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/imperative-verbs-in-romans-1-8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>install Jekyll on MacOS Big Sur</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2020-06-11-install-jekyll-on-macos-big-sur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Islam</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/islam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/islam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel in Egypt</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/israel-egypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/israel-egypt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>It is Settled</title>
+      <link>http://localhost:1313/bible-study/it-is-settled/archived/it-is-settled-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/it-is-settled/archived/it-is-settled-full/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jesus mismo-nuestra propiciación</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/jesus-mismo-nuestra-propiciaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>John 11:1-23</title>
+      <link>http://localhost:1313/bible-study/docs/john/john-11.1-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/john/john-11.1-23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>John 11:35-48</title>
+      <link>http://localhost:1313/bible-study/docs/john/john-11.35-48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/john/john-11.35-48/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>John 13:21-38</title>
+      <link>http://localhost:1313/bible-study/docs/john/john-13.21-38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/john/john-13.21-38/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>John 8:31-44</title>
+      <link>http://localhost:1313/bible-study/docs/john/john-831-44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/john/john-831-44/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Iglesia Carnal</title>
+      <link>http://localhost:1313/bible-study/la-iglesia-carnal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/la-iglesia-carnal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marriage</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/marriage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/marriage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mothers of King of Judah</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/juda-kings-mothers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/juda-kings-mothers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obedience of faith</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2015-02-15-obedience-of-faith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2015-02-15-obedience-of-faith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OT Books</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/ot-books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/ot-books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phil 2:1-2 phrased</title>
+      <link>http://localhost:1313/bible-study/docs/philemon/phil-21-2-phrased/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/philemon/phil-21-2-phrased/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phil 2:1-2 phrased</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/phil-21-2-phrased/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/phil-21-2-phrased/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 32</title>
+      <link>http://localhost:1313/bible-study/docs/psalms/psalm-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/psalms/psalm-32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 32</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/psalm-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/psalm-32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 36</title>
+      <link>http://localhost:1313/bible-study/docs/psalms/psalm-36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/psalms/psalm-36/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 36</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/psalm-36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/psalm-36/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>quotes</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/quotes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Repentance According to the Bible</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2020-06-08-repentance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2020-06-08-repentance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>return to God</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romanos</title>
+      <link>http://localhost:1313/bible-study/docs/sblgnt-txt/rom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/sblgnt-txt/rom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 1:18-32</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-1.18-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-1.18-32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 10:9-10</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-10.9-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-10.9-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Romans 5</title>
-      <link>https://johnwry.github.io/bible-study/docs/romans/romanos5.notas/</link>
+      <link>http://localhost:1313/bible-study/docs/romans/romanos5.notas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/docs/romans/romanos5.notas/</guid>
+      <guid>http://localhost:1313/bible-study/docs/romans/romanos5.notas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 8:1</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-8.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-8.1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 8:1-4</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-8.1-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-8.1-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 8:18-28</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-8.18-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-8.18-28/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romans 9-16</title>
+      <link>http://localhost:1313/bible-study/docs/romans/romans-9-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/romans/romans-9-16/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://johnwry.github.io/bible-study/docs/test/</link>
+      <link>http://localhost:1313/bible-study/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/docs/test/</guid>
+      <guid>http://localhost:1313/bible-study/test/</guid>
       <description></description>
     </item>
     <item>
-      <title>Test</title>
-      <link>https://johnwry.github.io/bible-study/test/</link>
+      <title>The blood of Jesus</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://johnwry.github.io/bible-study/test/</guid>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Church</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-church/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-church/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Day of the Lord</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Gospel to the Believer</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Unmeritedness of Grace</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/grace-unmerited/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/grace-unmerited/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Warning to Timothy of False Teachers</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theonomy</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two Instructors</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/2021-07-21-two-instructors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/2021-07-21-two-instructors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity claims vs Truth claims</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/unity-claims-vs-truth-claims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/unity-claims-vs-truth-claims/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>You are Teaching &#39;Easy Believism&#39;</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/i-am-acused-of-teaching-easy-believism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/i-am-acused-of-teaching-easy-believism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah</title>
+      <link>http://localhost:1313/bible-study/docs/zechariah/zechariah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/zechariah/zechariah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah notes</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zechariah notes</title>
+      <link>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_notes2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/books/archives/zechariah_notes2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zephaniah</title>
+      <link>http://localhost:1313/bible-study/docs/zephaniah/zephaniah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/zephaniah/zephaniah/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,9 +1,8 @@
 ---
-Title: Hebrews 12:1-2
-Template: outline
-Author: "John Wry"
+title: Hebrews 12:1-2
+author: "John Wry"
 titleIcon: "far fa-file-alt"
-Date: 10/11/2024 10:10am
+date: "2024-11-10"
 ---
 
 # Run with endurance 

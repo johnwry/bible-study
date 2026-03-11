@@ -1,6 +1,6 @@
 ---
 Title: The Church
-Date: 12/10/2022 4:40am
+Date: 2022-10-12
 Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"

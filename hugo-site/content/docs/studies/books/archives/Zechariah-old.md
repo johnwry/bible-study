@@ -2,7 +2,7 @@
 Title: Zechariah
 Author: John Wry
 Template: blog
-Date: 01/10/2022 3:14pm
+Date: 2022-10-01
 hidden: true
 ---
 

@@ -3,7 +3,7 @@ Title: Philemon
 Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"
-Date: 28/10/2024 4:40am
+Date: 2024-10-28
 ---
 
 # Philemon (NASB)
