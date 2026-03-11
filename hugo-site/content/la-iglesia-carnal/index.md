@@ -12,7 +12,7 @@ layout: "single"
 
 <br>
 
-<img src="portada.jpg" alt="La Iglesia Carnal" width="320">
+<img src="portada.png" alt="La Iglesia Carnal" width="320">
 
 <br><br>
 

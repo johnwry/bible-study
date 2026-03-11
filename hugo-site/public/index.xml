@@ -43,6 +43,20 @@
       <description></description>
     </item>
     <item>
+      <title>The Gospel to the Believer</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theonomy</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OT Books</title>
       <link>http://localhost:1313/bible-study/docs/ot-books/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
@@ -61,6 +75,34 @@
       <link>http://localhost:1313/bible-study/docs/studies/books/ot-books/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bible-study/docs/studies/books/ot-books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>return to God</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The blood of Jesus</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Church</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-church/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-church/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Day of the Lord</title>
+      <link>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</guid>
       <description></description>
     </item>
     <item>
@@ -834,13 +876,6 @@
       <description></description>
     </item>
     <item>
-      <title>return to God</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/return-to-god/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Romanos</title>
       <link>http://localhost:1313/bible-study/docs/sblgnt-txt/rom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -904,34 +939,6 @@
       <description></description>
     </item>
     <item>
-      <title>The blood of Jesus</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-blood-of-jesus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Church</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/the-church/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-church/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Day of the Lord</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-day-of-the-lord/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Gospel to the Believer</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/the-gospel-to-the-believer/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>The Unmeritedness of Grace</title>
       <link>http://localhost:1313/bible-study/docs/studies/topical/grace-unmerited/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -943,13 +950,6 @@
       <link>http://localhost:1313/bible-study/docs/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bible-study/docs/studies/topical/2020-06-09-the-attack-of-the-ephesian-false-teachers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theonomy</title>
-      <link>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bible-study/docs/studies/topical/theonomy/</guid>
       <description></description>
     </item>
     <item>
