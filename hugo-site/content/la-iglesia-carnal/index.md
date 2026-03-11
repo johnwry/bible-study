@@ -81,7 +81,7 @@ color:white;
 padding:12px 24px;
 text-decoration:none;
 border-radius:5px;">
-Descargar PDF
+Leer PDF
 </a>
 
 ---
