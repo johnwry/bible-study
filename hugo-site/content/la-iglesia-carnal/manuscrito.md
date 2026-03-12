@@ -38,7 +38,7 @@ Esa pregunta dio inicio a un viaje.
 
 Las páginas que siguen son el registro de ese viaje.
 
-# El café
+# El Café
 
 Adrián ya estaba hablando antes de que alguien más hubiera llegado.
 
