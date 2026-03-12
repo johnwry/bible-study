@@ -6715,305 +6715,280 @@ el problema de la carnalidad ya no parecía abrumador.
 
 Parecía… derrotado.
 
-# La Cruz Desarma la Carnalidad
+# La cruz protege de la carnalidad
 
-La conversación no empezó de inmediato esa noche.
+Aquella noche el café estaba más tranquilo de lo habitual.
 
-Por una vez Adrián era el que estaba callado.
+No porque hubiera menos gente.
 
-Estaba sentado mirando su café mientras los otros llegaban.
+Sino porque la conversación en la mesa se había vuelto más pausada.
 
-Matías fue el primero en notarlo.
+Durante días los cuatro hombres habían estado profundizando en la misma pregunta.
 
-—Te ves como si hubieras estado pensando.
+La carnalidad.
 
-Adrián sonrió levemente.
+La habían visto en Corinto.
 
-—Eso se está volviendo un hábito peligroso últimamente.
+La habían visto en Galacia.
 
-Elías se sentó y abrió su Biblia.
+La habían visto escondida detrás de la disciplina en Éfeso.
 
-—¿Sobre qué?
+La habían visto prosperar bajo la actividad en Laodicea.
 
-Adrián se recostó lentamente.
+Y ahora la cruz había entrado en la conversación.
 
-—Ese versículo de ayer.
+Adrián rompió el silencio.
 
-—¿Cuál? —preguntó Marcos.
+—Entonces, si la cruz confronta la carnalidad…
+Hizo una pausa.
 
-> «Pues los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos.»
+—Y si la cruz la desarma…
 
-Matías asintió.
+Miró a los demás.
 
-—Sí.
-
-—Ese también se me ha quedado dando vueltas.
-
-Adrián se frotó la frente con suavidad.
-
-—He pasado la mayor parte de mi vida pensando en la carne como algo que constantemente tiene que dominarme.
-
-Los otros escucharon en silencio.
-
-—Entonces la vida cristiana se volvió una especie de lucha interminable.
-
-Matías habló con cuidado.
-
-—Así es como la mayoría de la gente la describe.
-
-—Sí.
-
-Adrián asintió.
-
-—“Lucha más fuerte.”
-
-—“Esfuérzate más.”
-
-—“Sé más disciplinado.”
-
-Marcos se inclinó un poco hacia adelante.
-
-—Pero Pablo no la describe así.
-
-—No —dijo Adrián.
-
-—Y eso es lo que me tiene pensando.
-
-Elías abrió otro pasaje.
-
-—Hay algo en Colosenses que puede ayudar.
-
-Adrián sonrió.
-
-—Bueno che… ahí lo tienes. Siempre hay un pasaje.
-
-Elías leyó despacio.
-
-> «Y cuando ustedes estaban muertos en sus delitos… Dios los dio vida juntamente con Él…»
-
-Hizo una breve pausa.
-
-> «…habiéndonos perdonado todos los delitos.»
-
-Matías asintió.
-
-—Ese es el evangelio.
-
-—Sí.
-
-—Pero sigan escuchando —dijo Elías.
-
-Continuó leyendo.
-
-> «Habiendo cancelado el documento de deuda que consistía en decretos contra nosotros…»
-
-Adrián se inclinó un poco hacia adelante.
-
-—Eso suena como si el juicio hubiera sido quitado.
-
-—Sí.
-
-Elías terminó la frase.
-
-> «…lo ha quitado de en medio, clavándolo en la cruz.»
-
-La mesa quedó en silencio.
-
-Marcos habló después.
-
-—Eso es decisivo. Ahí está la gracia.
-
-—Sí —dijo Elías—.
-
-—Pero el pasaje continúa.
-
-Leyó la siguiente línea con cuidado.
-
-> «Y habiendo despojado a los poderes y autoridades…»
-
-Adrián parpadeó.
-
-—¿Despojado?
-
-—Sí.
-
-Elías continuó.
-
-> «…hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.»
-
-Las palabras quedaron pesadas sobre la mesa.
-
-Matías habló lentamente.
-
-—Ese lenguaje suena a victoria.
-
-Marcos asintió.
-
-—Sí.
-
-—Algo perdió su poder.
-
-Adrián se inclinó hacia adelante.
-
-—Entonces la cruz no solo expone la carnalidad…
-
-—…le quita su autoridad.
-
-Los otros asintieron.
-
-Elías habló en voz baja.
-
-—Eso es exactamente lo que Pablo está describiendo.
-
-Adrián pensó un momento.
-
-—Eso explica algo que nunca había entendido.
-
-—¿Qué? —preguntó Matías.
-
-—Por qué el Nuevo Testamento habla tanto de libertad.
-
-Marcos asintió.
-
-—Sí.
-
-—Libertad del pecado.
-
-—Libertad de la ley.
-
-—Libertad del miedo.
-
-Adrián se frotó la barbilla.
-
-—Pero si la carne todavía fuera tan poderosa…
-
-Hizo un pequeño gesto.
-
-—…ese lenguaje no tendría sentido. Hasta sonaría ofensivo.
-
-Matías se recostó lentamente.
-
-—Entonces la cruz no solo nos perdonó.
-
-—No —dijo Elías—.
-
-—Desarmó lo que estaba contra nosotros.
-
-El ruido del café llenó el silencio por un momento.
-
-Entonces Marcos habló otra vez.
-
-—Eso también puede explicar por qué la carnalidad muchas veces sobrevive por intimidación.
-
-—¿Qué quieres decir? —preguntó Adrián.
-
-—Miedo.
-
-—Presión.
-
-—Condenación.
-
-Matías asintió.
-
-—Sí.
-
-—Esas cosas controlan a las personas.
-
-Adrián pensó en eso.
-
-—Entonces si la cruz quita la condenación…
-
-—…también quita una de las armas más fuertes de la carne.
-
-—Sí —dijo Marcos.
-
-Elías añadió en voz baja:
-
-—Y el orgullo también pierde su terreno.
+—¿Qué significa eso para la vida diaria?
 
 Matías asintió lentamente.
 
-—Porque todo se vuelve gracia.
+—Esa es la verdadera pregunta.
 
-La mesa volvió a quedar en silencio.
+Marcos pasó algunas páginas de su Biblia.
 
-Adrián finalmente habló.
+—Hay un versículo que podría responder eso.
 
-—Entonces la carnalidad no es tan poderosa como parece.
+Adrián sonrió.
 
-—No frente a la gracia —dijo Marcos—.
+—¿Otro más?
 
-—Sobrevive más que nada por engaño.
+Marcos asintió.
 
-Elías volvió a mirar la Biblia abierta.
+—Este es sencillo.
 
-—Por eso Pablo vuelve una y otra vez a la cruz.
+Lo leyó lentamente.
 
-—¿Qué quieres decir? —preguntó Matías.
+> «Pero yo digo: anden por el Espíritu, y no cumplirán el deseo de la carne».
 
-—Que la cruz recuerda a los creyentes lo que ya ha sucedido.
+Adrián levantó la vista.
 
-Adrián se recostó.
+—Eso suena casi demasiado simple.
 
-—Entonces la carne grita…
+—Sí —dijo Matías—.
 
-—…pero la cruz ya habló.
+—Pero escucha con atención cómo funciona.
 
-Los otros se quedaron pensando en eso.
+Elías se inclinó hacia adelante.
 
-Después de un momento Matías habló otra vez.
+—El versículo no dice…
 
-—Eso es muy diferente de cómo las iglesias suelen abordar este problema.
+Hizo una pausa.
 
-—¿Cómo así? —preguntó Adrián.
+—…luchen contra la carne.
 
-—Actúan como si la carne tuviera que ser restringida constantemente.
+Marcos asintió.
+
+—Tampoco dice…
+
+—…concéntrense en la carne.
+
+Adrián volvió a mirar el versículo.
+
+—Tienen razón.
+
+—Dice: anden por el Espíritu.
+
+Matías habló lentamente.
+
+—Eso significa que la protección no se encuentra en resistir la carne.
+
+Los otros lo miraron.
+
+—Se encuentra en caminar hacia otra parte.
+
+Adrián se recostó en su silla.
+
+—Eso es muy diferente de cómo la mayoría describe la vida cristiana.
+
+—¿Cómo así? —preguntó Marcos.
+
+—Bueno —dijo Adrián—,
+
+—he escuchado muchos sermones sobre cuidarse de la carne.
+
+—Sí —dijo Elías—.
+
+—Ten cuidado.
+
+—Mantente alerta.
+
+—Estate en guardia.
+
+Matías asintió.
+
+—Vigilancia constante.
+
+Adrián sonrió levemente.
+
+—Pero Pablo no dice eso aquí.
+
+—No —dijo Marcos—.
+
+—Él redirige el enfoque.
+
+Elías volvió a leer el versículo en voz baja.
+
+> «Anden por el Espíritu…»
+
+Adrián dio un ligero golpecito en la mesa.
+
+—Esa palabra andar es interesante.
+
+Matías asintió.
+
+—Sí.
+
+—Sugiere movimiento.
+
+—La vida diaria.
+
+—Los pasos ordinarios.
+
+Marcos añadió:
+
+—No una postura de batalla.
+
+La mesa quedó en silencio.
+
+Finalmente Adrián habló.
+
+—Entonces la cruz nos protege redirigiendo nuestra atención.
+
+—Sí —dijo Elías—.
+
+—De la carne…
+
+—…al Espíritu.
+
+Matías pensó un momento.
+
+—Eso explicaría algo.
+
+—¿Qué? —preguntó Adrián.
+
+—Que mientras más se enfocan las personas en la carne…
+
+—…más poderosa parece.
 
 Marcos asintió.
 
 —Sí.
 
-—Más reglas.
+—Eso ocurre muchas veces.
 
-—Más presión.
+Adrián soltó una leve risa.
 
-—Más sistemas.
+—He visto iglesias enteras construidas alrededor de esa idea.
 
-Adrián sonrió levemente.
+Matías sonrió ligeramente.
 
-—Pero la cruz le quitó sus armas.
+—Administrar la carnalidad.
 
-—Sí —dijo Elías—.
+—Exacto —dijo Adrián—.
 
-—Y cuando su autoridad desaparece…
+—Estrategias interminables.
 
-Hizo una pausa.
+—Advertencias interminables.
 
-—…toda la lucha empieza a verse diferente.
+—Presión interminable.
+
+Elías habló en voz baja.
+
+—Pero la instrucción de Pablo es sorprendentemente sencilla.
+
+Adrián volvió a mirar el versículo.
+
+—Anden por el Espíritu.
+
+Marcos asintió.
+
+—Y el resultado se declara claramente.
+
+Adrián terminó la frase.
+
+—No cumplirán el deseo de la carne.
+
+Las palabras quedaron suspendidas en el aire.
+
+Matías habló con cuidado.
+
+—Eso no se presenta como una posibilidad.
+
+—No —dijo Marcos—.
+
+—Se presenta como una certeza. Hay una promesa allí.
+
+Elías se recostó un poco en su silla.
+
+—Entonces la cruz quita la autoridad de la carne…
+
+—y el Espíritu nos conduce lejos de ella.
+
+Adrián asintió lentamente.
+
+—Eso suena menos como una lucha constante…
+
+—…y más como protección.
+
+Matías sonrió levemente.
+
+—Sí.
+
+—Protección contra algo que ya ha sido juzgado.
+
+El ruido del café volvió a llenar el silencio.
+
+Adrián habló en voz baja.
+
+—Esto empieza a sentirse diferente.
+
+—¿Cómo? —preguntó Marcos.
+
+—Por primera vez en esta conversación…
+
+Adrián hizo una pausa.
+
+—…la carne no parece ser el centro de todo.
+
+Los otros asintieron.
+
+Matías habló suavemente.
+
+—Y tal vez ese sea exactamente el punto.
 
 La mesa volvió a quedarse en silencio.
 
-Finalmente Adrián dijo lo que todos estaban empezando a percibir.
+Adrián miró a los demás.
 
-—Entonces si la cruz ha desarmado la carnalidad…
+—Entonces, si la cruz confronta la carnalidad…
 
-Miró alrededor de la mesa.
+—…y la desarma…
 
-—…tal vez la vida cristiana no se trata de fortalecernos contra la carne.
+—…y nos protege de ella…
 
-Los otros lo miraron.
+Hizo una pausa.
 
-Adrián terminó la idea lentamente.
+—Queda una última pregunta.
 
-—Tal vez se trata de vivir en lo que la cruz ya ha logrado.
+—¿Qué pregunta? —preguntó Elías.
+
+Adrián sonrió ligeramente.
+
+—Si la cruz ha hecho todo esto…
+
+—…¿por qué tantas iglesias siguen gastando su energía administrando la carne?
 
 Nadie respondió de inmediato.
 
-Porque por primera vez desde que comenzó la investigación…
-
-el problema de la carnalidad ya no parecía abrumador.
-
-Parecía… derrotado.
+Porque esa pregunta estaba a punto de llevarlos a un lugar más profundo.
 
 # Por Qué Aún Existe la Administración de la Carnalidad
 
