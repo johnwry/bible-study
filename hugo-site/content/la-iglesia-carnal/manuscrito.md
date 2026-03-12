@@ -6990,7 +6990,7 @@ Nadie respondió de inmediato.
 
 Porque esa pregunta estaba a punto de llevarlos a un lugar más profundo.
 
-# Por Qué Aún Existe la Administración de la Carnalidad
+# Por  qué aún Existe el Manejo de la Carnalidad
 
 El café estaba más ruidoso esa noche.
 
@@ -7252,7 +7252,7 @@ Porque todos habían escuchado algo parecido.
 
 Matías finalmente habló.
 
-—Tal vez esa sea la verdadera razón por la que sobrevive la administración de la carnalidad.
+—Tal vez esa sea la verdadera razón por la que sobrevive el manejo o gestionar de la carnalidad.
 
 —¿Cómo así? —preguntó Elías.
 
@@ -7468,7 +7468,7 @@ Matías asintió lentamente.
 
 Elías se inclinó un poco hacia adelante.
 
-—Quita todo el marco de la administración de la carnalidad.
+—Quita todo el marco de gestionar la carnalidad.
 
 Marcos añadió:
 
