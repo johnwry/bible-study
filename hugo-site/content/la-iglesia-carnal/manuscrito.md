@@ -6715,7 +6715,7 @@ el problema de la carnalidad ya no parecía abrumador.
 
 Parecía… derrotado.
 
-# La cruz protege de la carnalidad
+# La Cruz Protege de la Carnalidad
 
 Aquella noche el café estaba más tranquilo de lo habitual.
 
