@@ -5,11 +5,7 @@ Template: outline
 Author: "John Wry"
 titleIcon: "far fa-file-alt"
 ---
-{=html}
-{{< include "search.html" >}}
 # TITO 1
-
-------
 
 ### Tito 1:1 {#tit-1-1}
 
@@ -124,16 +120,12 @@ profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y des
 - ==ἀρνοῦνται== (*niegan*) → finite
 - ὄντες (*siendo*) → non-finite
 
-------
-
 ### Tito 2:1 {#tit-2-1}
 
 Pero tú habla lo que está de acuerdo con la sana doctrina,
 
 - ==λάλει== (*habla*) → finite
 - ==ἐστίν== (*está*) → finite
-
-
 
 ### Tito 2:2 {#tit-2-2}
 
@@ -147,7 +139,6 @@ Asimismo, que las ancianas sean reverentes en su conducta, no calumniadoras ni e
 
 - ==εἶναι== (*sean*) → finite
 - διδασκαλίζουσας (*enseñando*) → non-finite
-
 
 ### Tito 2:4 {#tit-2-4}
 
@@ -177,8 +168,6 @@ mostrándote en todo como ejemplo de buenas obras, con pureza en la doctrina, di
 
 - παρεχόμενος (*mostrándote*) → non-finite
 
-------
-
 ### Tito 2:8 {#tit-2-8}
 
 palabra sana e irreprochable, para que el adversario se avergüence, no teniendo nada malo que decir de nosotros,
@@ -186,8 +175,6 @@ palabra sana e irreprochable, para que el adversario se avergüence, no teniendo
 - ==ἐντραπῇ== (*se avergüence*) → finite
 - ἔχων (*teniendo*) → non-finite
 - λέγειν (*decir*) → non-finite
-
-------
 
 ### Tito 2:9 {#tit-2-9}
 
@@ -197,8 +184,6 @@ exhorta a los siervos a que estén sujetos a sus amos en todo, que sean complaci
 - ==εἶναι== (*estén/sean*) → finite
 - ἀντιλέγοντας (*contradiciendo*) → non-finite
 
-------
-
 ### Tito 2:10 {#tit-2-10}
 
 no defraudando, sino mostrando toda buena fidelidad, para que adornen la doctrina de Dios nuestro Salvador en todo,
@@ -207,16 +192,12 @@ no defraudando, sino mostrando toda buena fidelidad, para que adornen la doctrin
 - ἐνδεικνυμένους (*mostrando*) → non-finite
 - ==κοσμῶσιν== (*adornen*) → finite
 
-------
-
 ### Tito 2:11 {#tit-2-11}
 
 Porque la gracia de Dios ha aparecido, trayendo salvación a todos los hombres,
 
 - ==ἐπεφάνη== (*ha aparecido*) → finite
 - σωτήριος (*trayendo salvación*) → non-finite
-
-------
 
 ### Tito 2:12 {#tit-2-12}
 
@@ -226,15 +207,11 @@ enseñándonos que, negando la impiedad y los deseos mundanos, vivamos en este s
 - ἀρνησάμενοι (*negando*) → non-finite
 - ==ζήσωμεν== (*vivamos*) → finite
 
-------
-
 ### Tito 2:13 {#tit-2-13}
 
 aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús,
 
 - προσδεχόμενοι (*aguardando*) → non-finite
-
-------
 
 ### Tito 2:14 {#tit-2-14}
 
@@ -243,8 +220,6 @@ quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purifi
 - ==ἔδωκεν== (*se dio*) → finite
 - λυτρώσηται (*redimir*) → non-finite
 - καθαρίσῃ (*purificar*) → non-finite
-
-------
 
 ### Tito 2:15 {#tit-2-15}
 
@@ -264,8 +239,6 @@ Recuérdales que estén sujetos a gobernantes y autoridades, que sean obedientes
 - ==πειθαρχεῖν== (*obedecer*) → finite
 - ==εἶναι== (*estar*) → finite
 
-------
-
 ### Tito 3:2 {#tit-3-2}
 
 que no hablen mal de nadie, que no sean contenciosos, sino amables, mostrando toda consideración para con todos los hombres,
@@ -274,8 +247,6 @@ que no hablen mal de nadie, que no sean contenciosos, sino amables, mostrando to
 - ==εἶναι== (*ser*) → finite
 - ἐπιεικεῖς (*amables*) → non-finite
 - ἐνδεικνυμένους (*mostrando*) → non-finite
-
-------
 
 ### Tito 3:3 {#tit-3-3}
 
@@ -287,15 +258,11 @@ Porque nosotros también éramos en otro tiempo insensatos, desobedientes, extra
 - διάγοντες (*viviendo*) → non-finite
 - μισοῦντες (*odiando*) → non-finite
 
-------
-
 ### Tito 3:4 {#tit-3-4}
 
 Pero cuando se manifestó la bondad de Dios nuestro Salvador y su amor hacia la humanidad,
 
 - ==ἐπεφάνη== (*se manifestó*) → finite
-
-------
 
 ### Tito 3:5 {#tit-3-5}
 
@@ -304,15 +271,11 @@ Pero cuando se manifestó la bondad de Dios nuestro Salvador y su amor hacia la 
 - ==ἔσωσεν== (*salvó*) → finite
 - ποιήσαντες (*hecho*) → non-finite
 
-------
-
 ### Tito 3:6 {#tit-3-6}
 
 a quien derramó abundantemente sobre nosotros por medio de Jesucristo nuestro Salvador,
 
 - ==ἐξέχεεν== (*derramó*) → finite
-
-------
 
 ### Tito 3:7 {#tit-3-7}
 
@@ -320,8 +283,6 @@ para que, justificados por su gracia, fuéramos hechos herederos según la esper
 
 - δικαιωθέντες (*justificados*) → non-finite
 - ==γενηθῶμεν== (*fuéramos hechos*) → finite
-
-------
 
 ### Tito 3:8 {#tit-3-8}
 
@@ -334,8 +295,6 @@ Palabra fiel es esta; y en cuanto a estas cosas quiero que afirmes con firmeza, 
 - ==φροντίζωσιν== (*se ocupen*) → finite
 - ==ἐστίν== (*son*) → finite
 
-------
-
 ### Tito 3:9 {#tit-3-9}
 
 Pero evita controversias necias, genealogías, contiendas y disputas sobre la ley, porque son inútiles y sin valor,
@@ -343,16 +302,12 @@ Pero evita controversias necias, genealogías, contiendas y disputas sobre la le
 - ==περιΐστασο== (*evita*) → finite
 - ==εἰσίν== (*son*) → finite
 
-------
-
 ### Tito 3:10 {#tit-3-10}
 
 Al hombre que cause divisiones, después de una y otra amonestación, deséchalo,
 
 - ==παραιτοῦ== (*deséchalo/rechaza*) → finite
 - νουθεσίαν (*amonestación*) → non-finite
-
-------
 
 ### Tito 3:11 {#tit-3-11}
 
@@ -362,8 +317,6 @@ sabiendo que el tal es perverso y peca, habiéndose condenado a sí mismo.
 - ==ἁμαρτάνει== (*peca*) → finite
 - εἰδώς (*sabiendo*) → non-finite
 - αὐτοκατάκριτος (*condenado a sí mismo*) → non-finite
-
-------
 
 ### Tito 3:12 {#tit-3-12}
 
@@ -375,16 +328,12 @@ Cuando envíe a Artemas o a Tíquico a ti, apresúrate a venir a mí a Nicópoli
 - ==κέκρικα== (*he decidido*) → finite
 - παραχειμάσαι (*pasar el invierno*) → non-finite
 
-------
-
 ### Tito 3:13 {#tit-3-13}
 
 Encamina con diligencia a Zenas, el intérprete de la ley, y a Apolos, para que nada les falte,
 
 - ==πρόπεμψον== (*encamina*) → finite
 - ==λείπῃ== (*falte*) → finite
-
-------
 
 ### Tito 3:14 {#tit-3-14}
 
@@ -393,8 +342,6 @@ Y que los nuestros aprendan también a ocuparse en buenas obras para los casos d
 - ==μανθανέτωσαν== (*aprendan*) → finite
 - προΐστασθαι (*ocuparse*) → non-finite
 - ==ὦσιν== (*sean*) → finite
-
-------
 
 ### Tito 3:15 {#tit-3-15}
 
