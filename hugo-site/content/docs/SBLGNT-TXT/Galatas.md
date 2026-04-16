@@ -1,5 +1,9 @@
 ---
-title: Gálatas - verbos finitos
+title: "Gálatas - verbos finitos"
+Date: 2026-04-16
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 # Gálatas 1:1
