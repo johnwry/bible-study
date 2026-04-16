@@ -788,4 +788,765 @@ titleIcon: "far fa-file-alt"
 # Romanos 8:39
 - δυνήσεται (V-FMI-3S) → ==podrá==
 - χωρίσαι (V-AAN) → ❌
-
+# Romanos 9:1
+- λέγω (V-PAI-1S) → ==digo==
+- ψεύδομαι (V-PMI-1S) → ==miento==
+- συμμαρτυρούσης (V-PAP-GSF) → ❌
+# Romanos 9:2
+- ἐστίν (V-PAI-3S) → ==tengo==
+- ἔστιν (V-PAI-3S) → ==hay==
+# Romanos 9:3
+- ηὐχόμην (V-IMI-1S) → ==desearía==
+- εἶναι (V-PAN) → ❌
+# Romanos 9:4
+- εἰσιν (V-PAI-3P) → ==son==
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 9:5
+- εἰσιν (V-PAI-3P) → ==son==
+- ὢν (V-PAP-NSM) → ❌
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 9:6
+- ἐκπέπτωκεν (V-RAI-3S) → ==ha fallado==
+- εἰσιν (V-PAI-3P) → ==son==
+# Romanos 9:7
+- εἰσιν (V-PAI-3P) → ==son==
+- κληθήσεται (V-FPI-3S) → ==será llamada==
+# Romanos 9:8
+- εἰσιν (V-PAI-3P) → ==son==
+- λογίζεται (V-PPI-3S) → ==se considera==
+# Romanos 9:9
+- ἐστίν (V-PAI-3S) → ==es==
+- ἐλεύσομαι (V-FMI-1S) → ==vendré==
+- ἔσται (V-FMI-3S) → ==tendrá==
+# Romanos 9:10
+- ἔχουσα (V-PAP-NSF) → ❌
+# Romanos 9:11
+- γεννηθέντων (V-APP-GPM) → ❌
+- πραξάντων (V-AAP-GPM) → ❌
+- μένῃ (V-PAS-3S) → ==permanezca==
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 9:12
+- ἐρρέθη (V-API-3S) → ==se le dijo==
+- δουλεύσει (V-FAI-3S) → ==servirá==
+# Romanos 9:13
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἠγάπησα (V-AAI-1S) → ==amé==
+- ἐμίσησα (V-AAI-1S) → ==aborrecí==
+# Romanos 9:14
+- ἐροῦμεν (V-FAI-1P) → ==diremos==
+- ἐστίν (V-PAI-3S) → ==hay==
+- γένοιτο (V-AOM-3S) → ==sea==
+# Romanos 9:15
+- λέγει (V-PAI-3S) → ==dice==
+- ἐλεήσω (V-FAI-1S) → ==tendré misericordia==
+- οἰκτιρήσω (V-FAI-1S) → ==tendré compasión==
+# Romanos 9:16
+- ἐστίν (V-PAI-3S) → ==depende==
+- θέλοντος (V-PAP-GSM) → ❌
+- τρέχοντος (V-PAP-GSM) → ❌
+- ἐλεοῦντος (V-PAP-GSM) → ❌
+# Romanos 9:17
+- λέγει (V-PAI-3S) → ==dice==
+- ἐξήγειρά (V-AAI-1S) → ==he levantado==
+- ἐνδείξωμαι (V-AMS-1S) → ==mostrar==
+- διαγγελῇ (V-APS-3S) → ==sea proclamado==
+# Romanos 9:18
+- ἐλεεῖ (V-PAI-3S) → ==tiene misericordia==
+- θέλει (V-PAI-3S) → ==quiere==
+- σκληρύνει (V-PAI-3S) → ==endurece==
+# Romanos 9:19
+- ἐρεῖς (V-FAI-2S) → ==dirás==
+- μέμφεται (V-PMI-3S) → ==reprocha==
+- ἀνθέστηκεν (V-RAI-3S) → ==ha resistido==
+# Romanos 9:20
+- εἶ (V-PAI-2S) → ==eres==
+- ἀνταποκρινόμενος (V-PMP-NSM) → ❌
+- ἐρεῖ (V-FAI-3S) → ==dirá==
+- ἐποίησας (V-AAI-2S) → ==hiciste==
+# Romanos 9:21
+- ἔχει (V-PAI-3S) → ==tiene==
+- ποιῆσαι (V-AAN) → ❌
+# Romanos 9:22
+- θέλων (V-PAP-NSM) → ❌
+- ἐνδείξασθαι (V-AMN) → ❌
+- γνωρίσαι (V-AAN) → ❌
+- κατηρτισμένα (V-RPP-APN) → ❌
+# Romanos 9:23
+- γνωρίσῃ (V-AAS-3S) → ==dar a conocer==
+- προητοίμασεν (V-AAI-3S) → ==preparó==
+# Romanos 9:24
+- ἐκάλεσεν (V-AAI-3S) → ==llamó==
+# Romanos 9:25
+- λέγει (V-PAI-3S) → ==dice==
+- καλέσω (V-FAI-1S) → ==llamaré==
+- καλέσω (V-FAI-1S) → ==llamaré==
+# Romanos 9:26
+- ἔσται (V-FMI-3S) → ==será==
+- κληθήσονται (V-FPI-3P) → ==serán llamados==
+# Romanos 9:27
+- κράζει (V-PAI-3S) → ==clama==
+- ᾖ (V-PAS-3S) → ==sea==
+- σωθήσεται (V-FPI-3S) → ==será salvo==
+# Romanos 9:28
+- ποιήσει (V-FAI-3S) → ==ejecutará==
+# Romanos 9:29
+- προείρηκεν (V-RAI-3S) → ==ha dicho==
+- ἐγκατέλιπεν (V-AAI-3S) → ==dejado==
+- ἐγενήθημεν (V-API-1P) → ==hubiéramos llegado a ser==
+- ὡμοιώθημεν (V-API-1P) → ==hubiéramos sido semejantes==
+# Romanos 9:30
+- ἐροῦμεν (V-FAI-1P) → ==diremos==
+- διώκοντα (V-PAP-ASM) → ❌
+- κατέλαβεν (V-AAI-3S) → ==alcanzó==
+# Romanos 9:31
+- διώκων (V-PAP-NSM) → ❌
+- ἔφθασεν (V-AAI-3S) → ==alcanzó==
+# Romanos 9:32
+- ἐστίν (V-PAI-3S) → ==es==
+- διώκοντες (V-PAP-NPM) → ❌
+- προσέκοψαν (V-AAI-3P) → ==tropezaron==
+# Romanos 9:33
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- τίθημι (V-PAI-1S) → ==pongo==
+- πιστεύων (V-PAP-NSM) → ❌
+- καταισχυνθήσεται (V-FPI-3S) → ==será avergonzado==
+# Romanos 10:1
+- ἐστίν (V-PAI-3S) → ==es==
+- γίγνεται (V-PMI-3S) → ==se hace==
+# Romanos 10:2
+- μαρτυρῶ (V-PAI-1S) → ==doy testimonio==
+- ἔχουσιν (V-PAI-3P) → ==tienen==
+# Romanos 10:3
+- ἀγνοοῦντες (V-PAP-NPM) → ❌
+- ζητοῦντες (V-PAP-NPM) → ❌
+- ὑπετάγησαν (V-API-3P) → ==se sujetaron==
+# Romanos 10:4
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 10:5
+- γράφει (V-PAI-3S) → ==escribe==
+- ποιήσας (V-AAP-NSM) → ❌
+- ζήσεται (V-FMI-3S) → ==vivirá==
+# Romanos 10:6
+- λέγει (V-PAI-3S) → ==dice==
+- ἀναβήσεται (V-FMI-3S) → ==subirá==
+# Romanos 10:7
+- καταβήσεται (V-FMI-3S) → ==descenderá==
+# Romanos 10:8
+- λέγει (V-PAI-3S) → ==dice==
+- ἐστίν (V-PAI-3S) → ==es==
+- κηρύσσομεν (V-PAI-1P) → ==predicamos==
+# Romanos 10:9
+- ὁμολογήσῃς (V-AAS-2S) → ==confiesas==
+- πιστεύσῃς (V-AAS-2S) → ==crees==
+- ἤγειρεν (V-AAI-3S) → ==levantó==
+- σωθήσῃ (V-FPI-2S) → ==serás salvo==
+# Romanos 10:10
+- πιστεύεται (V-PPI-3S) → ==se cree==
+- ὁμολογεῖται (V-PPI-3S) → ==se confiesa==
+# Romanos 10:11
+- λέγει (V-PAI-3S) → ==dice==
+- πιστεύων (V-PAP-NSM) → ❌
+- καταισχυνθήσεται (V-FPI-3S) → ==será avergonzado==
+# Romanos 10:12
+- ἐστιν (V-PAI-3S) → ==hay==
+- ἐστιν (V-PAI-3S) → ==es==
+- πλουτῶν (V-PAP-NSM) → ❌
+- ἐπικαλουμένους (V-PMP-APM) → ❌
+# Romanos 10:13
+- ἐπικαλέσηται (V-AMS-3S) → ==invoque==
+- σωθήσεται (V-FPI-3S) → ==será salvo==
+# Romanos 10:14
+- ἐπικαλέσωνται (V-AMS-3P) → ==invocarán==
+- πιστεύσωσιν (V-AAS-3P) → ==creerán==
+- ἤκουσαν (V-AAI-3P) → ==han oído==
+- ἀκούσωσιν (V-AAS-3P) → ==oirán==
+- κηρύσσοντος (V-PAP-GSM) → ❌
+# Romanos 10:15
+- κηρύξωσιν (V-AAS-3P) → ==predicarán==
+- ἀποσταλῶσιν (V-APS-3P) → ==sean enviados==
+- γέγραπται (V-RPI-3S) → ==está escrito==
+# Romanos 10:16
+- ὑπήκουσαν (V-AAI-3P) → ==obedecieron==
+- λέγει (V-PAI-3S) → ==dice==
+- ἐπίστευσεν (V-AAI-3S) → ==ha creído==
+# Romanos 10:17
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 10:18
+- λέγω (V-PAI-1S) → ==digo==
+- ἤκουσαν (V-AAI-3P) → ==han oído==
+- ἐξῆλθεν (V-AAI-3S) → ==salió==
+# Romanos 10:19
+- λέγω (V-PAI-1S) → ==digo==
+- ἔγνω (V-AAI-3S) → ==conoció==
+- παραζηλώσω (V-FAI-1S) → ==provocaré a celos==
+- παροργιῶ (V-FAI-1S) → ==provocaré a ira==
+# Romanos 10:20
+- ἀποτολμᾷ (V-PAI-3S) → ==se atreve==
+- λέγει (V-PAI-3S) → ==dice==
+- εὑρέθην (V-API-1S) → ==fui hallado==
+- ἐγενόμην (V-2AMI-1S) → ==me manifesté==
+# Romanos 10:21
+- λέγει (V-PAI-3S) → ==dice==
+- ἐξεπέτασα (V-AAI-1S) → ==extendí==
+# Romanos 11:1
+- λέγω (V-PAI-1S) → ==digo==
+- ἀπώσατο (V-AMI-3S) → ==ha desechado==
+- γένοιτο (V-AOM-3S) → ==sea==
+- εἰμι (V-PAI-1S) → ==soy==
+# Romanos 11:2
+- ἀπώσατο (V-AMI-3S) → ==ha desechado==
+- προέγνω (V-AAI-3S) → ==conoció==
+- λέγει (V-PAI-3S) → ==dice==
+- ἐντυγχάνει (V-PAI-3S) → ==intercede==
+# Romanos 11:3
+- ἀπέκτειναν (V-AAI-3P) → ==han matado==
+- κατέσκαψαν (V-AAI-3P) → ==han derribado==
+- ὑπελείφθην (V-API-1S) → ==he quedado==
+- ζητοῦσιν (V-PAI-3P) → ==buscan==
+# Romanos 11:4
+- λέγει (V-PAI-3S) → ==dice==
+- κατέλιπον (V-AAI-1S) → ==he reservado==
+- ἔκαμψαν (V-AAI-3P) → ==doblaron==
+# Romanos 11:5
+- γέγονεν (V-RAI-3S) → ==ha quedado==
+# Romanos 11:6
+- ἐστίν (V-PAI-3S) → ==es==
+- γίνεται (V-PMI-3S) → ==llega a ser==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 11:7
+- ἐπέτυχεν (V-AAI-3S) → ==alcanzó==
+- ἐπωρώθησαν (V-API-3P) → ==fueron endurecidos==
+# Romanos 11:8
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἔδωκεν (V-AAI-3S) → ==dio==
+# Romanos 11:9
+- λέγει (V-PAI-3S) → ==dice==
+- γενηθήτω (V-APM-3S) → ==sea hecho==
+- γένηται (V-AMS-3S) → ==sea==
+# Romanos 11:10
+- σκοτισθήτωσαν (V-APM-3P) → ==sean oscurecidos==
+- βλέπειν (V-PAN) → ❌
+- κάμψον (V-AAM-2S) → ==dobla==
+# Romanos 11:11
+- λέγω (V-PAI-1S) → ==digo==
+- ἔπταισαν (V-AAI-3P) → ==tropezaron==
+- πέσωσιν (V-AAS-3P) → ==cayeran==
+- γένοιτο (V-AOM-3S) → ==sea==
+- ἐγένετο (V-2AMI-3S) → ==vino==
+- παραζηλῶσαι (V-AAN) → ❌
+# Romanos 11:12
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 11:13
+- λέγω (V-PAI-1S) → ==hablo==
+- εἰμι (V-PAI-1S) → ==soy==
+- δοξάζω (V-PAI-1S) → ==honro==
+# Romanos 11:14
+- παραζηλώσω (V-FAI-1S) → ==provoque a celos==
+- σώσω (V-FAI-1S) → ==salve==
+# Romanos 11:15
+- ἐστίν (V-PAI-3S) → ==es==
+- ἀποβολὴ (N-NSF) → ❌
+- ἐστίν (V-PAI-3S) → ==será==
+# Romanos 11:16
+- ἐστίν (V-PAI-3S) → ==es==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 11:17
+- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
+- ἐνεκεντρίσθης (V-API-2S) → ==fuiste injertado==
+- συγκοινωνὸς (N-NSM) → ❌
+- ἐγένου (V-2AMI-2S) → ==has llegado a ser==
+# Romanos 11:18
+- κατακαυχῶ (V-PMM-2S) → ==te jactes==
+- βαστάζεις (V-PAI-2S) → ==sustentas==
+- βαστάζει (V-PAI-3S) → ==sustenta==
+# Romanos 11:19
+- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
+- ἐγκεντρισθῶ (V-APS-1S) → ==sea injertado==
+# Romanos 11:20
+- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
+- ἕστηκας (V-RAI-2S) → ==estás==
+- φρόνει (V-PAM-2S) → ==ten==
+# Romanos 11:21
+- ἐφείσατο (V-AMI-3S) → ==perdonó==
+- φείσεται (V-FMI-3S) → ==perdonará==
+# Romanos 11:22
+- ἐπιμένῃς (V-PAS-2S) → ==permaneces==
+- ἐκκοπήσῃ (V-FPI-2S) → ==serás cortado==
+# Romanos 11:23
+- ἐπιμένωσιν (V-PAS-3P) → ==permanecen==
+- ἐγκεντρισθήσονται (V-FPI-3P) → ==serán injertados==
+- δύνατός (ADJ) → ❌
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 11:24
+- ἐξεκόπης (V-API-2S) → ==fuiste cortado==
+- ἐνεκεντρίσθης (V-API-2S) → ==fuiste injertado==
+- ἐγκεντρισθήσονται (V-FPI-3P) → ==serán injertados==
+# Romanos 11:25
+- θέλω (V-PAI-1S) → ==quiero==
+- ἀγνοεῖν (V-PAN) → ❌
+- γέγονεν (V-RAI-3S) → ==ha acontecido==
+- εἰσέλθῃ (V-AAS-3S) → ==haya entrado==
+# Romanos 11:26
+- σωθήσεται (V-FPI-3S) → ==será salvo==
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἥξει (V-FAI-3S) → ==vendrá==
+- ἀποστρέψει (V-FAI-3S) → ==apartará==
+# Romanos 11:27
+- ἐστίν (V-PAI-3S) → ==es==
+- ἀφέλωμαι (V-AMS-1S) → ==quite==
+# Romanos 11:28
+- εἰσιν (V-PAI-3P) → ==son==
+- εἰσιν (V-PAI-3P) → ==son==
+# Romanos 11:29
+- εἰσιν (V-PAI-3P) → ==son==
+# Romanos 11:30
+- ἠπειθήσατε (V-AAI-2P) → ==desobedecieron==
+- ἠλεήθητε (V-API-2P) → ==han recibido misericordia==
+# Romanos 11:31
+- ἠπείθησαν (V-AAI-3P) → ==han desobedecido==
+- ἐλεηθῶσιν (V-APS-3P) → ==reciban misericordia==
+# Romanos 11:32
+- συνέκλεισεν (V-AAI-3S) → ==encerró==
+- ἐλεήσῃ (V-AAS-3S) → ==tenga misericordia==
+# Romanos 11:33
+- ἐστιν (V-PAI-3S) → ==son==
+- ἐξιχνιάστοι (ADJ) → ❌
+- ἀνεξιχνίαστοι (ADJ) → ❌
+# Romanos 11:34
+- ἔγνω (V-AAI-3S) → ==conoció==
+- ἐγένετο (V-2AMI-3S) → ==llegó a ser==
+# Romanos 11:35
+- προέδωκεν (V-AAI-3S) → ==dio==
+- ἀνταποδοθήσεται (V-FPI-3S) → ==será recompensado==
+# Romanos 11:36
+- ἐστίν (V-PAI-3S) → ==son==
+# Romanos 12:1
+- παρακαλῶ (V-PAI-1S) → ==exhorto==
+- παραστῆσαι (V-AAN) → ❌
+- εἶναι (V-PAN) → ❌
+# Romanos 12:2
+- συσχηματίζεσθε (V-PMM-2P) → ==se conformen==
+- μεταμορφοῦσθε (V-PPM-2P) → ==sean transformados==
+- δοκιμάζειν (V-PAN) → ❌
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 12:3
+- λέγω (V-PAI-1S) → ==digo==
+- ὑπερφρονεῖν (V-PAN) → ❌
+- φρονεῖν (V-PAN) → ❌
+- φρονεῖν (V-PAN) → ❌
+- ἐμέρισεν (V-AAI-3S) → ==repartió==
+# Romanos 12:4
+- ἔχομεν (V-PAI-1P) → ==tenemos==
+- ἔχει (V-PAI-3S) → ==tiene==
+# Romanos 12:5
+- ἐσμεν (V-PAI-1P) → ==somos==
+- ἐσμεν (V-PAI-1P) → ==somos==
+# Romanos 12:6
+- ἔχοντες (V-PAP-NPM) → ❌
+- διαφέρομεν (V-PAI-1P) → ==tenemos==
+# Romanos 12:7
+- ὁ διακονῶν (V-PAP-NSM) → ❌
+- ὁ διδάσκων (V-PAP-NSM) → ❌
+# Romanos 12:8
+- ὁ παρακαλῶν (V-PAP-NSM) → ❌
+- μεταδιδούς (V-PAP-NSM) → ❌
+- προϊστάμενος (V-PMP-NSM) → ❌
+- ἐλεῶν (V-PAP-NSM) → ❌
+# Romanos 12:9
+- ἀποστυγοῦντες (V-PAP-NPM) → ❌
+- κολλώμενοι (V-PMP-NPM) → ❌
+# Romanos 12:10
+- φιλαδελφίᾳ (N-DSF) → ❌
+- τιμῇ (N-DSF) → ❌
+# Romanos 12:11
+- ὀκνηροί (ADJ) → ❌
+- ζέοντες (V-PAP-NPM) → ❌
+- δουλεύοντες (V-PAP-NPM) → ❌
+# Romanos 12:12
+- χαίροντες (V-PAP-NPM) → ❌
+- ὑπομένοντες (V-PAP-NPM) → ❌
+- προσκαρτεροῦντες (V-PAP-NPM) → ❌
+# Romanos 12:13
+- κοινωνοῦντες (V-PAP-NPM) → ❌
+- διώκοντες (V-PAP-NPM) → ❌
+# Romanos 12:14
+- εὐλογεῖτε (V-PAM-2P) → ==bendigan==
+- καταρώμενοι (V-PMP-NPM) → ❌
+# Romanos 12:15
+- χαίρειν (V-PAN) → ❌
+- κλαίειν (V-PAN) → ❌
+# Romanos 12:16
+- φρονοῦντες (V-PAP-NPM) → ❌
+- φρονοῦντες (V-PAP-NPM) → ❌
+- συναπαγόμενοι (V-PMP-NPM) → ❌
+- γίνεσθε (V-PMM-2P) → ==sean==
+# Romanos 12:17
+- ἀποδιδόντες (V-PAP-NPM) → ❌
+- προνοούμενοι (V-PMP-NPM) → ❌
+# Romanos 12:18
+- ἐξαρτώμενον (V-PMP-NSN) → ❌
+- ζῶντες (V-PAP-NPM) → ❌
+# Romanos 12:19
+- ἐκδικοῦντες (V-PAP-NPM) → ❌
+- δότε (V-AAM-2P) → ==den==
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἀνταποδώσω (V-FAI-1S) → ==yo pagaré==
+# Romanos 12:20
+- πεινᾷ (V-PAI-3S) → ==tiene hambre==
+- ψώμιζε (V-PAM-2S) → ==dale de comer==
+- διψᾷ (V-PAI-3S) → ==tiene sed==
+- πότιζε (V-PAM-2S) → ==dale de beber==
+- ποιῶν (V-PAP-NSM) → ❌
+- σωρεύσεις (V-FAI-2S) → ==amontonarás==
+# Romanos 12:21
+- νικῶ (V-PMM-2S) → ==seas vencido==
+- νίκα (V-PAM-2S) → ==vence==
+# Romanos 13:1
+- ὑποτασσέσθω (V-PPM-3S) → ==sométase==
+- ἐστιν (V-PAI-3S) → ==hay==
+- εἰσίν (V-PAI-3P) → ==son==
+- τεταγμέναι (V-RPP-NPF) → ❌
+# Romanos 13:2
+- ἀντιτασσόμενος (V-PMP-NSM) → ❌
+- ἀνθέστηκεν (V-RAI-3S) → ==ha resistido==
+- λήμψονται (V-FMI-3P) → ==recibirán==
+# Romanos 13:3
+- εἰσίν (V-PAI-3P) → ==son==
+- φοβεῖσθαι (V-PNN) → ❌
+- ποιεῖ (V-PAI-3S) → ==hace==
+- ἔχεις (V-PAI-2S) → ==tienes==
+# Romanos 13:4
+- ἐστιν (V-PAI-3S) → ==es==
+- ποιῇς (V-PAS-2S) → ==haces==
+- φοβοῦ (V-PMM-2S) → ==teme==
+- φορεῖ (V-PAI-3S) → ==lleva==
+- ἐστιν (V-PAI-3S) → ==es==
+- ἐκδικος (ADJ) → ❌
+# Romanos 13:5
+- ἀνάγκη (N-NSF) → ❌
+- ὑποτάσσεσθαι (V-PPN) → ❌
+# Romanos 13:6
+- τελεῖτε (V-PAI-2P) → ==pagan==
+- εἰσίν (V-PAI-3P) → ==son==
+- προσκαρτεροῦντες (V-PAP-NPM) → ❌
+# Romanos 13:7
+- ἀπόδοτε (V-AAM-2P) → ==paguen==
+- ὀφειλάς (N-APF) → ❌
+# Romanos 13:8
+- ὀφείλετε (V-PAM-2P) → ==deban==
+- ἀγαπᾷ (V-PAI-3S) → ==ama==
+- πεπλήρωκεν (V-RAI-3S) → ==ha cumplido==
+# Romanos 13:9
+- ἐπιθυμήσεις (V-FAI-2S) → ==codiciarás==
+- ἀνακεφαλαιοῦται (V-PPI-3S) → ==se resume==
+- ἀγαπήσεις (V-FAI-2S) → ==amarás==
+# Romanos 13:10
+- ἐργάζεται (V-PMI-3S) → ==hace==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 13:11
+- εἰδότες (V-RAP-NPM) → ❌
+- ἐστιν (V-PAI-3S) → ==es==
+- ἐγερθῆναι (V-APN) → ❌
+- ἐγγύτερον (ADV) → ❌
+- ἐστιν (V-PAI-3S) → ==está==
+# Romanos 13:12
+- προέκοψεν (V-AAI-3S) → ==avanzó==
+- ἤγγικεν (V-RAI-3S) → ==se ha acercado==
+- ἀποθώμεθα (V-AMS-1P) → ==dejemos==
+- ἐνδυσώμεθα (V-AMS-1P) → ==vistámonos==
+# Romanos 13:13
+- περιπατήσωμεν (V-AAS-1P) → ==andemos==
+- κώμοις (N-DPM) → ❌
+# Romanos 13:14
+- ἐνδύσασθε (V-AMM-2P) → ==revístanse==
+- ποιεῖσθε (V-PMM-2P) → ==hagan==
+# Romanos 14:1
+- προσλαμβάνεσθε (V-PMM-2P) → ==reciban==
+- διακρίσεις (N-APF) → ❌
+# Romanos 14:2
+- πιστεύει (V-PAI-3S) → ==cree==
+- ἐσθίει (V-PAI-3S) → ==come==
+# Romanos 14:3
+- ἐσθίων (V-PAP-NSM) → ❌
+- ἐξουθενείτω (V-PAM-3S) → ==menosprecie==
+- ἐσθίων (V-PAP-NSM) → ❌
+- κρινέτω (V-PAM-3S) → ==juzgue==
+- προσελάβετο (V-AMI-3S) → ==ha recibido==
+# Romanos 14:4
+- εἶ (V-PAI-2S) → ==eres==
+- κρίνων (V-PAP-NSM) → ❌
+- στήκει (V-PAI-3S) → ==permanece==
+- πίπτει (V-PAI-3S) → ==cae==
+- σταθήσεται (V-FPI-3S) → ==será sostenido==
+- δυνατεῖ (V-PAI-3S) → ==puede==
+# Romanos 14:5
+- κρίνει (V-PAI-3S) → ==estima==
+- κρίνει (V-PAI-3S) → ==estima==
+- πληροφορείσθω (V-PPM-3S) → ==esté convencido==
+# Romanos 14:6
+- φρονῶν (V-PAP-NSM) → ❌
+- φρονεῖ (V-PAI-3S) → ==tiene en cuenta==
+- ἐσθίων (V-PAP-NSM) → ❌
+- ἐσθίει (V-PAI-3S) → ==come==
+- εὐχαριστεῖ (V-PAI-3S) → ==da gracias==
+- ἐσθίων (V-PAP-NSM) → ❌
+- οὐκ ἐσθίει (V-PAI-3S) → ==no come==
+- εὐχαριστεῖ (V-PAI-3S) → ==da gracias==
+# Romanos 14:7
+- ζῇ (V-PAI-3S) → ==vive==
+- ἀποθνῄσκει (V-PAI-3S) → ==muere==
+# Romanos 14:8
+- ζῶμεν (V-PAS-1P) → ==vivimos==
+- ζῶμεν (V-PAS-1P) → ==vivimos==
+- ἀποθνῄσκομεν (V-PAI-1P) → ==morimos==
+- ἀποθνῄσκομεν (V-PAI-1P) → ==morimos==
+- ἐσμεν (V-PAI-1P) → ==somos==
+# Romanos 14:9
+- ἀπέθανεν (V-AAI-3S) → ==murió==
+- ἔζησεν (V-AAI-3S) → ==vivió==
+- κυριεύσῃ (V-AAS-3S) → ==sea Señor==
+# Romanos 14:10
+- κρίνεις (V-PAI-2S) → ==juzgas==
+- ἐξουθενεῖς (V-PAI-2S) → ==menosprecias==
+- παραστησόμεθα (V-FMI-1P) → ==compareceremos==
+# Romanos 14:11
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- λέγει (V-PAI-3S) → ==dice==
+- κάμψει (V-FAI-3S) → ==se doblará==
+- ἐξομολογήσεται (V-FMI-3S) → ==confesará==
+# Romanos 14:12
+- δώσει (V-FAI-3S) → ==dará==
+# Romanos 14:13
+- κρίνωμεν (V-PAS-1P) → ==juzguemos==
+- κρίνατε (V-AAM-2P) → ==decidan==
+- τιθέναι (V-PAN) → ❌
+# Romanos 14:14
+- οἶδα (V-RAI-1S) → ==sé==
+- πέπεισμαι (V-RPI-1S) → ==estoy convencido==
+- ἐστιν (V-PAI-3S) → ==es==
+- λογιζομένῳ (V-PMP-DSM) → ❌
+- εἶναι (V-PAN) → ❌
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 14:15
+- λυπεῖται (V-PPI-3S) → ==se entristece==
+- περιπατεῖς (V-PAI-2S) → ==andas==
+- ἀπόλλυε (V-PAM-2S) → ==destruyas==
+- ἀπέθανεν (V-AAI-3S) → ==murió==
+# Romanos 14:16
+- βλασφημείσθω (V-PPM-3S) → ==sea vituperado==
+# Romanos 14:17
+- ἐστιν (V-PAI-3S) → ==es==
+# Romanos 14:18
+- δουλεύων (V-PAP-NSM) → ❌
+- εὐάρεστος (ADJ) → ❌
+- δόκιμος (ADJ) → ❌
+# Romanos 14:19
+- διώκωμεν (V-PAS-1P) → ==sigamos==
+# Romanos 14:20
+- κατάλυε (V-PAM-2S) → ==destruyas==
+- ἐστιν (V-PAI-3S) → ==son==
+- ἐσθίοντι (V-PAP-DSM) → ❌
+# Romanos 14:21
+- καλὸν (ADJ) → ❌
+# Romanos 14:22
+- ἔχεις (V-PAI-2S) → ==tienes==
+- ἔχε (V-PAM-2S) → ==ten==
+- κρίνων (V-PAP-NSM) → ❌
+# Romanos 14:23
+- διακρινόμενος (V-PMP-NSM) → ❌
+- κατακέκριται (V-RPI-3S) → ==ha sido condenado==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 15:1
+- ὀφείλομεν (V-PAI-1P) → ==debemos==
+- βαστάζειν (V-PAN) → ❌
+- ἀρέσκειν (V-PAN) → ❌
+# Romanos 15:2
+- ἀρεσκέτω (V-PAM-3S) → ==agrade==
+# Romanos 15:3
+- ἤρεσεν (V-AAI-3S) → ==agradó==
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἐπέπεσαν (V-AAI-3P) → ==cayeron==
+# Romanos 15:4
+- προεγράφη (V-API-3S) → ==fue escrito==
+- ἔχωμεν (V-PAS-1P) → ==tengamos==
+# Romanos 15:5
+- δῴη (V-AAS-3S) → ==conceda==
+- φρονεῖν (V-PAN) → ❌
+# Romanos 15:6
+- δοξάζητε (V-PAS-2P) → ==glorifiquen==
+# Romanos 15:7
+- προσλαμβάνεσθε (V-PMM-2P) → ==acéptense==
+- προσελάβετο (V-AMI-3S) → ==aceptó==
+# Romanos 15:8
+- λέγω (V-PAI-1S) → ==digo==
+- γεγενῆσθαι (V-RNN) → ❌
+- βεβαιῶσαι (V-AAN) → ❌
+# Romanos 15:9
+- δοξάσαι (V-AAN) → ❌
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ἐξομολογήσομαι (V-FMI-1S) → ==confesaré==
+- ψαλῶ (V-FAI-1S) → ==cantaré==
+# Romanos 15:10
+- λέγει (V-PAI-3S) → ==dice==
+# Romanos 15:11
+- αἰνεῖτε (V-PAM-2P) → ==alaben==
+- ἐπαινέσατε (V-AAM-2P) → ==alaben==
+# Romanos 15:12
+- λέγει (V-PAI-3S) → ==dice==
+- ἔσται (V-FMI-3S) → ==habrá==
+- ἀνιστάμενος (V-PMP-NSM) → ❌
+- ἐλπιοῦσιν (V-FAI-3P) → ==esperarán==
+# Romanos 15:13
+- πληρώσαι (V-AAN) → ❌
+- περισσεύητε (V-PAS-2P) → ==abunden==
+# Romanos 15:14
+- πέπεισμαι (V-RPI-1S) → ==estoy convencido==
+- ἐστε (V-PAI-2P) → ==están==
+- δυνάμενοι (V-PMP-NPM) → ❌
+- νουθετεῖν (V-PAN) → ❌
+# Romanos 15:15
+- ἔγραψα (V-AAI-1S) → ==he escrito==
+- ἐπιμιμνῄσκων (V-PAP-NSM) → ❌
+- δοθείσης (V-APP-GSF) → ❌
+# Romanos 15:16
+- εἶναι (V-PAN) → ❌
+- λειτουργοῦντα (V-PAP-ASM) → ❌
+- ἡγιασμένη (V-RPP-NSF) → ❌
+# Romanos 15:17
+- ἔχω (V-PAI-1S) → ==tengo==
+# Romanos 15:18
+- τολμήσω (V-FAI-1S) → ==me atreveré==
+- κατειργάσατο (V-AMI-3S) → ==ha hecho==
+# Romanos 15:19
+- πεπληρωκέναι (V-RAN) → ❌
+# Romanos 15:20
+- φιλοτιμούμενον (V-PMP-ASM) → ❌
+- εὐαγγελίζεσθαι (V-PNN) → ❌
+- ὠνομάσθη (V-API-3S) → ==fue nombrado==
+- οἰκοδομῶ (V-PAI-1S) → ==edifique==
+# Romanos 15:21
+- γέγραπται (V-RPI-3S) → ==está escrito==
+- ὄψονται (V-FMI-3P) → ==verán==
+- συνήσουσιν (V-FMI-3P) → ==entenderán==
+# Romanos 15:22
+- ἐνεκοπτόμην (V-IPI-1S) → ==fui impedido==
+# Romanos 15:23
+- ἔχων (V-PAP-NSM) → ❌
+- ἔχων (V-PAP-NSM) → ❌
+- ἐπιποθίαν (N-ASF) → ❌
+# Romanos 15:24
+- ἐλπίζω (V-PAI-1S) → ==espero==
+- διαπορευόμενος (V-PMP-NSM) → ❌
+- θεάσασθαι (V-AMN) → ❌
+- προπεμφθῆναι (V-APN) → ❌
+# Romanos 15:25
+- πορεύομαι (V-PMI-1S) → ==voy==
+# Romanos 15:26
+- εὐδόκησαν (V-AAI-3P) → ==tuvieron a bien==
+- ποιήσασθαι (V-AMN) → ❌
+# Romanos 15:27
+- εὐδόκησαν (V-AAI-3P) → ==tuvieron a bien==
+- ὀφειλέται (N-NPM) → ❌
+- εἰσίν (V-PAI-3P) → ==son==
+- ἐκοινώνησαν (V-AAI-3P) → ==participaron==
+- λειτουργῆσαι (V-AAN) → ❌
+# Romanos 15:28
+- ἐπιτελέσας (V-AAP-NSM) → ❌
+- σφραγισάμενος (V-AMP-NSM) → ❌
+- ἀπελεύσομαι (V-FMI-1S) → ==iré==
+# Romanos 15:29
+- οἶδα (V-RAI-1S) → ==sé==
+- ἐρχόμενος (V-PMP-NSM) → ❌
+- ἐλεύσομαι (V-FMI-1S) → ==iré==
+# Romanos 15:30
+- παρακαλῶ (V-PAI-1S) → ==exhorto==
+- συναγωνίσασθαι (V-AMN) → ❌
+# Romanos 15:31
+- ῥυσθῶ (V-APS-1S) → ==sea librado==
+- διακονία (N-NSF) → ❌
+- γένηται (V-AMS-3S) → ==sea==
+# Romanos 15:32
+- ἔλθω (V-AAS-1S) → ==llegue==
+- συναναπαύσωμαι (V-AMS-1S) → ==sea confortado==
+# Romanos 15:33
+- εἴη (V-PAO-3S) → ==sea==
+# Romanos 16:1
+- συνίστημι (V-PAI-1S) → ==recomiendo==
+- οὖσαν (V-PAP-ASF) → ❌
+# Romanos 16:2
+- προσδέξησθε (V-AMS-2P) → ==reciban==
+- ἀξίως (ADV) → ❌
+- παραστῇ (V-AAS-3S) → ==necesite==
+- ἐγένετο (V-2AMI-3S) → ==ha sido==
+# Romanos 16:3
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:4
+- ὑπέθηκαν (V-AAI-3P) → ==expusieron==
+- εὐχαριστῶ (V-PAI-1S) → ==doy gracias==
+# Romanos 16:5
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 16:6
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- κοπιάσασαν (V-AAP-ASF) → ❌
+# Romanos 16:7
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- εἰσιν (V-PAI-3P) → ==son==
+- ἐγένοντο (V-2AMI-3P) → ==fueron==
+# Romanos 16:8
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:9
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:10
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- ἐστίν (V-PAI-3S) → ==es==
+# Romanos 16:11
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:12
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+- κοπιώσας (V-AAP-NSM) → ❌
+# Romanos 16:13
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:14
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:15
+- ἀσπάσασθε (V-AMM-2P) → ==saluden==
+# Romanos 16:16
+- ἀσπάσασθε (V-AMM-2P) → ==salúdense==
+- ἀσπάζονται (V-PMI-3P) → ==saludan==
+# Romanos 16:17
+- παρακαλῶ (V-PAI-1S) → ==exhorto==
+- σκοπεῖν (V-PAN) → ❌
+- ποιούντας (V-PAP-APM) → ❌
+- ἐκκλίνετε (V-PAM-2P) → ==apártense==
+# Romanos 16:18
+- δουλεύουσιν (V-PAI-3P) → ==sirven==
+- ἐξαπατῶσιν (V-PAI-3P) → ==engañan==
+# Romanos 16:19
+- ἀφίκετο (V-2AMI-3S) → ==ha llegado==
+- χαίρω (V-PAI-1S) → ==me gozo==
+- θέλω (V-PAI-1S) → ==quiero==
+- εἶναι (V-PAN) → ❌
+# Romanos 16:20
+- συντρίψει (V-FAI-3S) → ==aplastará==
+- εἴη (V-PAO-3S) → ==sea==
+# Romanos 16:21
+- ἀσπάζεται (V-PMI-3S) → ==saluda==
+# Romanos 16:22
+- ἀσπάζομαι (V-PMI-1S) → ==saludo==
+# Romanos 16:23
+- ἀσπάζεται (V-PMI-3S) → ==saluda==
+- ἀσπάζεται (V-PMI-3S) → ==saluda==
+# Romanos 16:24
+- εἴη (V-PAO-3S) → ==sea==
+# Romanos 16:25
+- στηρίξαι (V-AAN) → ❌
+- κηρύγματός (N-GSN) → ❌
+- ἀποκαλυφθέντος (V-APP-GSN) → ❌
+# Romanos 16:26
+- φανερωθέντος (V-APP-GSN) → ❌
+- γνωρισθέντος (V-APP-GSN) → ❌
+- ἐπιταγὴν (N-ASF) → ❌
+# Romanos 16:27
+- εἴη (V-PAO-3S) → ==sea==
