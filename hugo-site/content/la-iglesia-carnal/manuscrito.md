@@ -1,5 +1,7 @@
 ---
-title: La Iglesia Carnal
+title: "La Iglesia Carnal"
+creator: "John Wry"
+language: es
 ---
 
 # Prólogo
@@ -6984,7 +6986,7 @@ Adrián sonrió ligeramente.
 
 —Si la cruz ha hecho todo esto…
 
-—…¿por qué tantas iglesias siguen gastando su energía administrando la carne?
+—¿por qué tantas iglesias siguen gastando su energía administrando la carne?
 
 Nadie respondió de inmediato.
 

@@ -2357,7 +2357,7 @@ Because if fruit reveals the source…
 
 Then the condition of a church might not be hidden nearly as well as people imagine.
 
-# Diagnosing a Churchf
+# Diagnosing a Church
 
 The Bible was closed now.
 
@@ -5389,7 +5389,13 @@ Marcos smiled.
 
 "Can i get your orders? I'm inviting tonight". 
 
-They all answered in a single voice, "the usual". 
+"You? I can't hardly believe you're buying coffee today". 
+
+Adrían ignored the comment. 
+
+"the usual?" he asked. 
+
+"Yes," they all replied in unison.
 
 A couple of minutes later her returned with 4 mugs of coffee. 
 
@@ -6527,11 +6533,59 @@ Adrián leaned back.
 
 “So instead of dealing with the flesh…”
 
+Adrián leaned back slightly.
+
 He paused.
 
 “…we build rails.”
 
 Matías spoke slowly.
+
+“Rails matter.”
+
+Elías raised an eyebrow.
+
+“Rails?”
+
+He looked around the table.
+
+“What do you mean by rails?”
+
+Marcos smiled.
+
+“You know… like a train.”
+
+Elías shook his head.
+
+“I’m serious.”
+
+He tapped the table lightly.
+
+“I’ve never seen a church with rails.”
+
+A small laugh moved around the table.
+
+Adrián smiled.
+
+“Fair question.”
+
+He leaned forward.
+
+“Rails are the structures we build to keep things moving in the right direction.”
+
+He gestured gently with his hand.
+
+“Teaching.
+ Practices.
+ Habits.
+ Meetings.
+ Disciplines.”
+
+He paused.
+
+“All the things that guide people along the track.”
+
+Matías nodded.
 
 “Rails matter.”
 
@@ -7152,7 +7206,8 @@ Adrián nodded slowly.
 
 Elias rememembered a passage, 
 
-> why, as if you were living in the world, do you submit yourself to decrees, such as, "Do not handle, do not taste, do not touch!" —in accordance with the commandments and teachings of men? These are matters which have, to be sure, the appearance of wisdom but are of no value against fleshly indulgence.
+> why, as if you were living in the world, do you submit yourself to decrees, such as, "Do not handle, do not taste, do not touch!" —in accordance with the commandments and teachings of men? These are matters which have, to be sure, the appearance of wisdom but are of no value against fleshly 
+> indulgence.
 
 The table sat in silence again.
 
