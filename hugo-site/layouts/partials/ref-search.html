@@ -7,7 +7,6 @@ function goToRef() {
 
   const books = {
     "tito": "tit",
-    "tit": "tit",
     "galatas": "gal",
     "gálatas": "gal",
     "romanos": "rom"
@@ -30,8 +29,6 @@ function goToRef() {
     if (el) {
       el.scrollIntoView({ behavior: "smooth" });
       location.hash = id;
-    } else {
-      alert("Referencia no encontrada");
     }
   }
 }
