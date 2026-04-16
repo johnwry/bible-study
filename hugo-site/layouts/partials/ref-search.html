@@ -1,35 +1,4 @@
-<input type="text" id="refInput" placeholder="Tito 1:1">
+<input type="text" id="refInput" placeholder="Juan 3:16">
 <button onclick="goToRef()">Ir</button>
 
-<script>
-function goToRef() {
-  let input = document.getElementById("refInput").value.toLowerCase();
-
-  const books = {
-    "tito": "tit",
-    "galatas": "gal",
-    "gálatas": "gal",
-    "romanos": "rom"
-  };
-
-  for (let key in books) {
-    if (input.startsWith(key)) {
-      input = input.replace(key, books[key]);
-    }
-  }
-
-  input = input.replace(/\s+/g, "");
-
-  const match = input.match(/(\d+):(\d+)/);
-
-  if (match) {
-    const id = `${input.split(/[0-9]/)[0]}-${match[1]}-${match[2]}`;
-    const el = document.getElementById(id);
-
-    if (el) {
-      el.scrollIntoView({ behavior: "smooth" });
-      location.hash = id;
-    }
-  }
-}
-</script>
+<script src="/bible-study/js/ref-parser.js"></script>
