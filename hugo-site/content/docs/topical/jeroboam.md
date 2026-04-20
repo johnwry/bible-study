@@ -1,6 +1,9 @@
 ---
-title: jeroboam
-
+title: "jeroboam"
+Date: 2026-04-20
+Template: outline
+Author: "John Wry"
+titleIcon: "far fa-file-alt"
 ---
 
 El pecado de Jeroboam no se trata como un simple error en las Escrituras, sino que se convierte en un **estándar de maldad** con el que se compara a los reyes posteriores. Para responder a tu pregunta desde una perspectiva bíblica, nos ceñiremos estrictamente a lo que el texto dice y describe.
@@ -50,8 +53,8 @@ Jeroboam **no eliminó la adoración**, pero la **reorganizó completamente**, i
   - Similar, pero modificada
   - 1 Kings 12:32–33
 
-👉 Observación:
- La estructura se mantiene, pero sus componentes son **alterados**.
+  👉 Observación:
+   La estructura se mantiene, pero sus componentes son **alterados**.
 
 ------
 
@@ -60,8 +63,8 @@ Jeroboam **no eliminó la adoración**, pero la **reorganizó completamente**, i
 - 1 Kings 12:33
    *“que él había ideado en su propio corazón”*
 
-👉 Observación:
- El texto enfatiza:
+   👉 Observación:
+    El texto enfatiza:
 
 - “él hizo”
 - “él nombró”
@@ -74,9 +77,9 @@ Jeroboam **no eliminó la adoración**, pero la **reorganizó completamente**, i
 - 1 Kings 12:28
    *“que te hicieron subir de Egipto”*
 
-👉 Observación:
- Lenguaje histórico verdadero
- → aplicado a **becerros de oro**
+   👉 Observación:
+    Lenguaje histórico verdadero
+    → aplicado a **becerros de oro**
 
 ------
 
@@ -89,8 +92,8 @@ Jeroboam **no eliminó la adoración**, pero la **reorganizó completamente**, i
   - 1 Kings 15:34
   - 2 Kings 17:21–22
 
-👉 Observación:
- No solo es pecado personal, sino **colectivo y persistente**.
+  👉 Observación:
+   No solo es pecado personal, sino **colectivo y persistente**.
 
 ------
 
